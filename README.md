@@ -61,17 +61,13 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
-| <sub><b>[Efficient Transformers: A Survey](https://arxiv.org/abs/2402.01484v2)</b></sub> | 2024 | None | <sub><b>![Efficiency](https://img.shields.io/badge/Efficiency-orange) ![Quantization](https://img.shields.io/badge/Quantization-lime)</b></sub> |
-| <sub><b>[Energy-Aware Neural Architecture Search](https://arxiv.org/abs/2401.12950v1)</b></sub> | 2024 | None | <sub><b>![Energy Efficiency](https://img.shields.io/badge/Energy_Efficiency-red)</b></sub> |
-| <sub><b>[Scalable and Robust AI Systems](https://arxiv.org/abs/2301.12736v1)</b></sub> | 2023 | None | <sub><b>![Scalability](https://img.shields.io/badge/Scalability-purple) ![Robustness](https://img.shields.io/badge/Robustness-teal)</b></sub> |
-| <sub><b>[Optimizing AI Inference on Edge Devices](https://arxiv.org/abs/2303.05796v2)</b></sub> | 2023 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-green)</b></sub> |
+| <sub><b>[Optimal Brain Damage](https://proceedings.neurips.cc/paper_files/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)</b></sub> | 1989 | NeurIPs | <sub><b>![Efficiency](https://img.shields.io/badge/Efficiency-orange) ![Pruning](https://img.shields.io/badge/Pruning-orange)</b></sub> |
 
 ---
 
 ## Books 📚
-- **[Efficient AI Models: Techniques and Strategies](https://www.springer.com/gp/book/9783030866712)** (2024), John Doe
-- **[Quantization in Machine Learning](https://www.manning.com/books/quantization-in-machine-learning)** (2024), Jane Smith
-- **[Energy-Efficient AI: Principles and Applications](https://www.cambridge.org/core/books/energyefficient-ai/)** (2024), Bertrand Charpentier
+- **[Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.com/dp/0323912311?ref_=cm_sw_r_cp_ud_dp_YVNSMFJMGQ9N457Z8Q6D)** (2022), Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj
+
 
 ---
 
