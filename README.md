@@ -37,27 +37,23 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Facts 📊
-- **80%**: Percentage of AI projects failing due to inefficiencies ([Source](https://www.tomshardware.com/tech-industry/artificial-intelligence/research-shows-more-than-80-of-ai-projects-fail-wasting-billions-of-dollars-in-capital-and-resources-report), 2024)
-- **60%**: Businesses not developing efficient AI strategies despite AI integration ([Source](https://www.venasolutions.com/blog/ai-statistics), 2024)
-- **10,000+**: Research papers on AI model efficiency and optimization ([Source](https://arxiv.org/search/cs?query=efficiency+AND+AI&searchtype=author&abstracts=show&order=-announced_date_first), 2024)
+- **2 nuclear plants**: Number of nuclear plants to constantly work ot generate enough energy if 80M people generate 5 pages per day ([Source](https://huggingface.co/spaces/genai-impact/ecologits-calculator), 2025)
+- **1 smartphone charge**: Amount of energy required to AI generate a couple of images or run a few thousands inference with an LLM ([Source](https://arxiv.org/pdf/2311.16863), 2024)
+- **>10s**: Time requried to generate 1 HD image with Flux on H100 or to generate 100 tokens with Llama 3 on T4 ([Source](https://flux-pruna-benchmark.vercel.app/) and [Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard), 2024)
 
 ---
 
 ## Tools 🛠️
+- :heart: **[Pruna](https://docs.pruna.ai/en/latest/)** :heart:: A package to make AI models faster, smaller, faster, greener by combining compression methods (incl. quantization, pruning, caching, compilation, distillation...) on various hardware.
 - **[TensorRT](https://developer.nvidia.com/tensorrt)**: High-performance deep learning inference library for NVIDIA GPUs.
 - **[ONNX](https://onnx.ai/)**: Open Neural Network Exchange format for interoperability among deep learning frameworks.
-- **[TF-Quantum](https://www.tensorflow.org/quantum)**: Quantum machine learning library integrating quantum computing into TensorFlow.
-- **[EfficientNet](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)**: Efficient models optimized for both accuracy and speed.
-- **[Pruning](https://github.com/google-research/compression)**: Techniques for pruning unnecessary connections in neural networks to reduce size and improve efficiency.
+- **[LLM Perf](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)**: A framework for benchmarking the performance of transformers models with different hardwares, backends and optimizations.
 - **[Model Optimization Toolkit](https://www.tensorflow.org/model_optimization)**: TensorFlow toolkit for optimizing machine learning models for deployment and execution.
-- **[AutoML](https://cloud.google.com/automl)**: Automated machine learning tools for optimizing model architecture and hyperparameters.
 
 ---
 
 ## Articles 📰
-- *"[Research shows more than 80% of AI projects fail, wasting billions of dollars in capital and resources: Report](https://www.tomshardware.com/tech-industry/artificial-intelligence/research-shows-more-than-80-of-ai-projects-fail-wasting-billions-of-dollars-in-capital-and-resources-report)"* (2024) - [Tom's Hardware](https://www.tomshardware.com/)
-- *"[80 AI Statistics Shaping Business in 2024](https://www.venasolutions.com/blog/ai-statistics)"* (2024) - [Vena Solutions](https://www.venasolutions.com/)
-- *"[OopsGPT: OpenAI's Error and the Impact on AI Trust](https://www.theatlantic.com/technology/archive/2024/07/searchgpt-openai-error/679248/?)"* (2024) - [The Atlantic](https://www.theatlantic.com/)
+- *"[DeepSeek might not be such good news for energy after all](https://www.technologyreview.com/2025/01/31/1110776/deepseek-might-not-be-such-good-news-for-energy-after-all/)"* (2024) - MIT Technology Review
 
 ---
 
@@ -80,8 +76,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Lectures 🎓
-- **[Optimizing AI Efficiency: Challenges and Opportunities](https://www.youtube.com/watch?v=veYq6EWZyVc)** (2022) - MIT Lecture by John Doe
-- **[Efficient Inference Strategies for Deep Learning](https://www.gatsby.ucl.ac.uk/~balaji/balaji-uncertainty-talk-cifar-dlrl.pdf)** (2020) - NeurIPS Tutorial by Jane Smith
+- **[MIT Han's Lab](https://www.youtube.com/c/MITHANLab)** (2024) - MIT Lecture by Han's lab
+- **[GPU Mode](https://www.youtube.com/@GPUMODE)** (2020) - Tutorials by GPU mode community
 
 ---
 
