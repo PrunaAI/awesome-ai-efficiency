@@ -61,7 +61,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
-| <sub><b>[Optimal Brain Damage](https://proceedings.neurips.cc/paper_files/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)</b></sub> | 1989 | NeurIPs | <sub><b>![Efficiency](https://img.shields.io/badge/Efficiency-orange) ![Pruning](https://img.shields.io/badge/Pruning-orange)</b></sub> |
+| <sub><b>[Optimal Brain Damage](https://proceedings.neurips.cc/paper_files/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)</b></sub> | 1989 | NeurIPs | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-orange)</b></sub> |
 
 ---
 
