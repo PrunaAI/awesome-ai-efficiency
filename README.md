@@ -49,6 +49,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[ONNX](https://onnx.ai/)**: Open Neural Network Exchange format for interoperability among deep learning frameworks.
 - **[Code Carbon](https://mlco2.github.io/codecarbon/)**: Library to track energy and carbon efficiency of various hardware.
 - **[LLM Perf](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)**: A framework for benchmarking the performance of transformers models with different hardwares, backends and optimizations.
+- **[AI Energy Score](https://huggingface.co/spaces/AIEnergyScore/submission_portal)**: An initiative to establish comparable energy efficiency ratings for AI models, helping the industry make informed decisions about sustainability in AI development.
 - **[Model Optimization Toolkit](https://www.tensorflow.org/model_optimization)**: TensorFlow toolkit for optimizing machine learning models for deployment and execution.
 
 ---
@@ -62,6 +63,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Pushing the Limits of Large Language Model Quantization via the Linearity Theorem](https://arxiv.org/abs/2411.17525)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-lime)</b></sub> |
+| <sub><b>[DeepCache: Accelerating Diffusion Models for Free](https://arxiv.org/pdf/2312.00858)</b></sub> | 2024 | CVPR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-lime)</b></sub> |
 | <sub><b>[Optimal Brain Damage](https://proceedings.neurips.cc/paper_files/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)</b></sub> | 1989 | NeurIPs | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-orange)</b></sub> |
 
 ---
@@ -82,7 +85,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Name                  | Affiliation                       | Research Interests | Social Media |
 |-----------------------|-----------------------------------|---------------------|--------------|
-| **Benoit Petit**        | Boavista                         | <sub></sub> | - |
+| **Benoit Petit**        | Boavista                         | <sub>Data Center Efficiency</sub> | - |
 | **Samuel Rincé**        | Gen AI Impact                                 | <sub>AI Efficiency, Sustainability</sub> | - |
 | **Téo Alves Da Costa**           | Ekimetrics                       | <sub>AI Efficiency, Sustainability</sub> | - |
 | **Sasha Luccioni**      | Hugging Face                       | <sub>AI Efficiency, Sustainability</sub> | - |
