@@ -65,6 +65,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 |-------|------|-------|------|
 | <sub><b>[Pushing the Limits of Large Language Model Quantization via the Linearity Theorem](https://arxiv.org/abs/2411.17525)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-lime)</b></sub> |
 | <sub><b>[DeepCache: Accelerating Diffusion Models for Free](https://arxiv.org/pdf/2312.00858)</b></sub> | 2024 | CVPR | <sub><b>![Caching](https://img.shields.io/badge/Caching-green)</b></sub> |
+| <sub><b>[Fast Inference from Transformers via Speculative Decoding]([https://arxiv.org/pdf/2312.00858](https://openreview.net/pdf?id=C9NEblP8vS))</b></sub> | 2023 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-green)</b></sub> |
 | <sub><b>[Optimal Brain Damage](https://proceedings.neurips.cc/paper_files/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)</b></sub> | 1989 | NeurIPs | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-orange)</b></sub> |
 
 ---
