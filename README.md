@@ -92,6 +92,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Name                  | Affiliation                       | Research Interests | Social Media |
 |-----------------------|-----------------------------------|---------------------|--------------|
+| **Scott Chamberlain**        | TBD                         | <sub>AI Efficiency</sub> | - |
 | **Benoit Petit**        | Boavista                         | <sub>Data Center Efficiency</sub> | - |
 | **Samuel Rincé**        | Gen AI Impact                                 | <sub>AI Efficiency, Sustainability</sub> | - |
 | **Téo Alves Da Costa**           | Ekimetrics                       | <sub>AI Efficiency, Sustainability</sub> | - |
