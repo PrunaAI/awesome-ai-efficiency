@@ -14,6 +14,7 @@ A curated list of resources dedicated to enhancing efficiency in AI systems. Thi
 | **Distillation**  | Transferring knowledge from a large model to a smaller one | ![Distillation](https://img.shields.io/badge/Distillation-blue) |
 | **Factorization** | Breaking down complex models into simpler, efficient components | ![Factorization](https://img.shields.io/badge/Factorization-purple) |
 | **Compilation**   | Optimizing model code for specific hardware and environments | ![Compilation](https://img.shields.io/badge/Compilation-red) |
+| **Parameter-Efficient Fine-tuning** | Learning a subset of of parameters | ![PEFT](https://img.shields.io/badge/Peft-purple) |
 | **Hardware**      | Leveraging specialized hardware for faster model execution | ![Hardware](https://img.shields.io/badge/Hardware-teal) |
 | **Training**      | Techniques for making model training faster and more efficient | ![Training](https://img.shields.io/badge/Training-orange) |
 | **Inference**     | Optimizing the speed and resource usage during model inference | ![Inference](https://img.shields.io/badge/Inference-lime) |
@@ -69,6 +70,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Distillation Scaling Laws](https://arxiv.org/pdf/2502.08606))</b></sub> | 2025 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-blue)</b></sub> |
 | <sub><b>[From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate](https://arxiv.org/abs/2501.16548v1))</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Pushing the Limits of Large Language Model Quantization via the Linearity Theorem](https://arxiv.org/abs/2411.17525)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-lime)</b></sub> |
+| <sub><b>[PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs](https://arxiv.org/pdf/2312.15230)</b></sub> | 2023 | None | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[DeepCache: Accelerating Diffusion Models for Free](https://arxiv.org/pdf/2312.00858)</b></sub> | 2024 | CVPR | <sub><b>![Caching](https://img.shields.io/badge/Caching-green)</b></sub> |
 | <sub><b>[Fast Inference from Transformers via Speculative Decoding](https://openreview.net/pdf?id=C9NEblP8vS)</b></sub> | 2023 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-green)</b></sub> |
 | <sub><b>[Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/pdf/2106.05237))</b></sub> | 2022 | CVPR | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-blue)</b></sub> |
