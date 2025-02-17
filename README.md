@@ -66,6 +66,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/pdf/2501.09732))</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-lime)</b></sub> |
 | <sub><b>[QuEST: Stable Training of LLMs with 1-Bit Weights and Activations](https://arxiv.org/pdf/2502.05003))</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-lime)</b></sub> |
 | <sub><b>[Distillation Scaling Laws](https://arxiv.org/pdf/2502.08606))</b></sub> | 2025 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-blue)</b></sub> |
 | <sub><b>[From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate](https://arxiv.org/abs/2501.16548v1))</b></sub> | 2025 | None | <sub><b></b></sub> |
