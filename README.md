@@ -42,6 +42,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **1 smartphone charge**: Amount of energy required to AI generate a couple of images or run a few thousands inference with an LLM ([Source](https://arxiv.org/pdf/2311.16863), 2024)
 - **>10s**: Time requried to generate 1 HD image with Flux on H100 or to generate 100 tokens with Llama 3 on T4 ([Source](https://flux-pruna-benchmark.vercel.app/) and [Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard), 2024)
 - **61,848.0x**: Difference between the highest and lowest energy use in energy leaderboard for AI models ([Source](https://huggingface.co/spaces/AIEnergyScore/Leaderboard), 2025).
+- **1,300MWh**: GPT-3, for example, is estimated to use just under 1,300 megawatt hours (MWh) of electricity; about as much power as consumed annually by 130 US homes ([Source](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption))
 
 ---
 
@@ -53,12 +54,27 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[LLM Perf](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)**: A framework for benchmarking the performance of transformers models with different hardwares, backends and optimizations.
 - **[AI Energy Score](https://huggingface.co/spaces/AIEnergyScore/submission_portal)**: An initiative to establish comparable energy efficiency ratings for AI models, helping the industry make informed decisions about sustainability in AI development.
 - **[Model Optimization Toolkit](https://www.tensorflow.org/model_optimization)**: TensorFlow toolkit for optimizing machine learning models for deployment and execution.
+- **[Green Coding](https://green-coding.ai/)**: LLM service that you can use to prompt most open source models and see the resource usage.
+- **[EcoLogits](https://huggingface.co/spaces/genai-impact/ecologits-calculator)**: EcoLogits is a python library that tracks the energy consumption and environmental footprint of using generative AI models through APIs.
 
 ---
 
 ## Articles 📰
 - *"[Automating GPU Kernel Generation with DeepSeek-R1 and Inference Time Scaling](https://developer.nvidia.com/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/)" (2025)* - Nvidia Developer
 - *"[DeepSeek might not be such good news for energy after all](https://www.technologyreview.com/2025/01/31/1110776/deepseek-might-not-be-such-good-news-for-energy-after-all/)"* (2024) - MIT Technology Review
+- *"[AI already uses as much energy as a small country. It’s only the beginning.](https://www.vox.com/climate/2024/3/28/24111721/climate-ai-tech-energy-demand-rising)"* (2024) - Vox
+- *"[Quelle contribution du numérique à la décarbonation ?](https://www.strategie.gouv.fr/publications/contribution-numerique-decarbonation)"* (2024) - France Stratégie
+- *"[Les promesses de l’IA grevées par un lourd bilan carbone](https://www.lemonde.fr/planete/article/2024/08/04/climat-les-promesses-de-l-ia-grevees-par-un-lourd-bilan-carbone_6266586_3244.html)"* (2024) - Le Monde
+- *"[How much electricity does AI consume?](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption)"* (2024) - The Verge
+- *"[How do I track the direct environmental impact of my own inference and training when working with AI?](https://rtl.chrisadams.me.uk/2024/08/how-do-i-track-my-direct-environmental-impact-of-my-own-inference-and-training-when-working-with-ai/)"* (2024) - Blog
+- *"[Data center emissions probably 662% higher than big tech claims. Can it keep up the ruse?](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)"* (2024) - The Guardian
+- *"[Light bulbs have energy ratings — so why can’t AI chatbots?](https://www.nature.com/articles/d41586-024-02680-3)"* (2024) - Nature
+- *"[]()"* (2024) -
+- *"[AI's "eye-watering" use of resources could be a hurdle to achieving climate goals, argue experts](https://www.dezeen.com/2023/08/09/ai-resources-climate-environment-energy-aitopia/)"* (2023) - dezeen
+---
+
+## Reports 📰
+- *"[Google Sustainability Reports](https://sustainability.google/reports/)"* (2024) - Google
 
 ---
 
@@ -71,7 +87,10 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Distillation Scaling Laws](https://arxiv.org/pdf/2502.08606))</b></sub> | 2025 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-blue)</b></sub> |
 | <sub><b>[From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate](https://arxiv.org/abs/2501.16548v1))</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Pushing the Limits of Large Language Model Quantization via the Linearity Theorem](https://arxiv.org/abs/2411.17525)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-lime)</b></sub> |
+| <sub><b>[Position: Tensor Networks are a Valuable Asset for Green AI](https://arxiv.org/pdf/2205.12961)</b></sub> | 2024 | None | <sub><b>![Factorization](https://img.shields.io/badge/Factorization-purple)</b></sub> |
+| <sub><b>[Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI](https://arxiv.org/pdf/2409.14160)</b></sub> | 2024 | None | <sub><b></b></sub> |
 | <sub><b>[PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs](https://arxiv.org/pdf/2312.15230)</b></sub> | 2023 | None | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
+| <sub><b>[Power Hungry Processing: Watts Driving the Cost of AI Deployment?](https://dl.acm.org/doi/pdf/10.1145/3630106.3658542)</b></sub> | 2024 | FaccT | <sub><b></b></sub> |
 | <sub><b>[DeepCache: Accelerating Diffusion Models for Free](https://arxiv.org/pdf/2312.00858)</b></sub> | 2024 | CVPR | <sub><b>![Caching](https://img.shields.io/badge/Caching-green)</b></sub> |
 | <sub><b>[Fast Inference from Transformers via Speculative Decoding](https://openreview.net/pdf?id=C9NEblP8vS)</b></sub> | 2023 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-green)</b></sub> |
 | <sub><b>[Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/pdf/2106.05237))</b></sub> | 2022 | CVPR | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-blue)</b></sub> |
@@ -102,8 +121,6 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | **Sasha Luccioni**      | Hugging Face                       | <sub>AI Efficiency, Sustainability</sub> | - |
 
 ## Organizations 🌍
-
-## Relevant Organizations 🌍
 
 | Organization           | Description                                                              | Website                                              |
 |------------------------|--------------------------------------------------------------------------|------------------------------------------------------|
