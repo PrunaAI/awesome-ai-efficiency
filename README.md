@@ -73,7 +73,6 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - *"[]()"* (2024) -
 - *"[AI's "eye-watering" use of resources could be a hurdle to achieving climate goals, argue experts](https://www.dezeen.com/2023/08/09/ai-resources-climate-environment-energy-aitopia/)"* (2023) - dezeen
 
-https://sakana.ai/ai-cuda-engineer/
 ---
 
 ## Reports 📰
