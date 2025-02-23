@@ -86,7 +86,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 ---
 
- Paper | Year | Venue | Tags |
+## Research Articles 📄
+| Paper | Year | Venue | Tags |
 |-------|------|-------|------|
 | <sub><b>[Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models](https://arxiv.org/pdf/2304.03271))</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/pdf/2501.09732))</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
