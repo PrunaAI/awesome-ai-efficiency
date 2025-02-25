@@ -79,7 +79,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 ---
 
-## Reports 📰
+## Reports 📈
 - *"[Google Sustainability Reports](https://sustainability.google/reports/)"* (2024) - Google
 - *"[How much water does AI consume? The public deserves to know](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)"* (2023) - OECD
 - *"[Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)"* (2022) - OECD
