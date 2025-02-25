@@ -89,6 +89,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/pdf/2502.06703)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[SpinQuant: LLM Quantization with Learned Rotations](https://arxiv.org/pdf/2405.16406))</b></sub> | 2025 | ICLR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models](https://arxiv.org/pdf/2304.03271))</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/pdf/2501.09732))</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
@@ -107,7 +108,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI](https://arxiv.org/pdf/2409.14160)</b></sub> | 2024 | None | <sub><b></b></sub> |
 | <sub><b>[PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs](https://arxiv.org/pdf/2312.15230)</b></sub> | 2023 | None | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)![Pruning](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning](https://www.sciencedirect.com/science/article/pii/S2210537923000124#:~:text=However%2C%20for%20deployed%20systems%2C%20inference,but%20inference%20is%20done%20repeatedly.)</b></sub> | 2023 | Sustainable Computing: Informatics and Systems | <sub><b></b></sub> |
-| <sub><b>[An experimental comparison of software-based power meters: focus on CPU and GPU](https://inria.hal.science/hal-04030223v2/file/_CCGrid23__An_experimental_comparison_of_software_based_power_meters__from_CPU_to_GPU.pdf)</b></sub> | 2023 | CCGrid | <sub><b></b></sub> |
+| <sub><b>[An experimental comparison of software-based power meters: focus on CPU and GPU](https://inria.hal.science/hal-04030223v2/file/_CCGrid23__An_experimental_comparison_of_software_based_power_meters__from_CPU_to_GPU.pdf)</b></sub> | 2023 | CCGrid | <sub><b>![Hardware](https://img.shields.io/badge/Hardware-purple)</b></sub> |
 | <sub><b>[Fast Inference from Transformers via Speculative Decoding](https://openreview.net/pdf?id=C9NEblP8vS)</b></sub> | 2023 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/pdf/2210.17323)</b></sub> | 2023 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/pdf/2106.05237))</b></sub> | 2022 | CVPR | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
