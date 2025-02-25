@@ -99,6 +99,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs](https://arxiv.org/pdf/2404.00456)</b></sub> | 2024 | NeurIPS | <sub><b>[Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[LOFIT: Localized Fine-tuning on LLM Representations](https://arxiv.org/pdf/2406.01563)</b></sub> | 2024 | NeurIPS | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[Outlier Weighed Layerwise Sparsity: A Missing Secret Sauce for Pruning LLMs to High Sparsity](https://arxiv.org/pdf/2310.05175)</b></sub> | 2024 | ICML | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality](https://arxiv.org/pdf/2410.19355)</b></sub> | 2024 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[DeepCache: Accelerating Diffusion Models for Free](https://arxiv.org/pdf/2312.00858)</b></sub> | 2024 | CVPR | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding](https://arxiv.org/abs/2401.07851)</b></sub> | 2024 | ACL | <sub><b>![Distillation](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Power Hungry Processing: Watts Driving the Cost of AI Deployment?](https://dl.acm.org/doi/pdf/10.1145/3630106.3658542)</b></sub> | 2024 | FaccT | <sub><b></b></sub> |
@@ -135,6 +136,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Name                  | Affiliation                       | Research Interests | Social Media |
 |-----------------------|-----------------------------------|---------------------|--------------|
+| **Song Han**        | MIT                         | <sub>AI Efficiency</sub> | - |
 | **Scott Chamberlain**        | TBD                         | <sub>AI Efficiency</sub> | - |
 | **Benoit Petit**        | Boavista                         | <sub>Data Center Efficiency</sub> | - |
 | **Samuel Rincé**        | Gen AI Impact                                 | <sub>AI Efficiency, Sustainability</sub> | - |
