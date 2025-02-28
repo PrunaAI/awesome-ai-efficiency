@@ -144,6 +144,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Name                  | Affiliation                       | Research Interests | Social Media |
 |-----------------------|-----------------------------------|---------------------|--------------|
+| **Tim Dettmers**        | CMU                        | <sub>Quantization</sub> | - |
 | **Song Han**        | MIT                         | <sub>AI Efficiency</sub> | - |
 | **Scott Chamberlain**        | TBD                         | <sub>AI Efficiency</sub> | - |
 | **Benoit Petit**        | Boavista                         | <sub>Data Center Efficiency</sub> | - |
