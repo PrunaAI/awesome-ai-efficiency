@@ -62,6 +62,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 ## Articles 📰
 - *"[What's the environmental cost of AI?](https://www.co2ai.com/insights/whats-the-environmental-cost-of-ai)"* (2024) - CO2 AI
+- *"[Shrinking the giants: Paving the way for TinyAI](https://www.cell.com/device/abstract/S2666-9986(24)00247-3)"* (2024) - Cell Press
 - *"[Automating GPU Kernel Generation with DeepSeek-R1 and Inference Time Scaling](https://developer.nvidia.com/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/)" (2025)* - Nvidia Developer
 - *"[DeepSeek might not be such good news for energy after all](https://www.technologyreview.com/2025/01/31/1110776/deepseek-might-not-be-such-good-news-for-energy-after-all/)"* (2024) - MIT Technology Review
 - *"[AI CUDA Engineer](https://sakana.ai/ai-cuda-engineer/)" (2025)* - Sakana AI
@@ -76,11 +77,20 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 )"* (2024) - Hugging Face
 - *"[The Climate and Sustainability Implications of Generative AI](https://mit-genai.pubpub.org/pub/8ulgrckc/release/2)"* (2024) - MIT
 - *"[AI's "eye-watering" use of resources could be a hurdle to achieving climate goals, argue experts](https://www.dezeen.com/2023/08/09/ai-resources-climate-environment-energy-aitopia/)"* (2023) - dezeen
+- *"[How coders can help save the planet?](https://trellis.net/article/how-coders-can-help-save-planet/)"* (2023) - Blog
+- *"[Reducing the Carbon Footprint of Generative AI](https://www.linkedin.com/pulse/reducing-carbon-footprint-generative-ai-boris-gamazaychikov/)"* (2023) - Blog
+- *"[The MPG of LLMs: Exploring the Energy Efficiency of Generative AI](https://www.linkedin.com/pulse/mpg-llms-exploring-energy-efficiency-generative-ai-gamazaychikov/)"* (2023) - Blog
+- *"[Ecologie numérique: L’IA durable, entre vœu pieux et opportunité de marché](https://www.liberation.fr/economie/economie-numerique/lia-durable-entre-voeu-pieux-et-opportunite-de-marche-20250210_RRW3GZT5KFDSRCH4MIAYXKFKYE/?at_creation=Fil_Vert_2025-02-10&at_campaign=NL_FILVERT&at_email_type=acquisition&at_medium=email&actId=%7EaZ0rwLtGEnqhYxPXKI1iJ5Y1MdiymPA0SNCFqk5sBgGT7glf8EeY1JVPC1N7NQGN_CpyjQGeTBfhOG8JG34Nc4BinZSv7tVnM0VzpQUN77jrV4B7cXevAWfA%3D&actCampaignType=CAMPAIGN_MAIL&actSource=543696)"* (2025) - Libération
 - *"[]()"* (2024) -
+
 
 ---
 
 ## Reports 📈
+- *"[Key challenges for the environmental performance of AI](https://www.sustainableaicoalition.org/key-challenges/)"* (2025) - French Ministry
+- *"[Artificial Intelligence and electricity: A system dynamics approach](https://www.se.com/ww/en/insights/sustainability/sustainability-research-institute/artificial-intelligence-electricity-system-dynamics-approach/)"* (2024) - Schneider
+- *"[Notable AI Models](https://epoch.ai/data/notable-ai-models)"* (2025) - Epoch AI
+- *"[Powering artificial intelligence](Deloitte)"* (2024) - Deloitte
 - *"[Google Sustainability Reports](https://sustainability.google/reports/)"* (2024) - Google
 - *"[How much water does AI consume? The public deserves to know](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)"* (2023) - OECD
 - *"[Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)"* (2022) - OECD
