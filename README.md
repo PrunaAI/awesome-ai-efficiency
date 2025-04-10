@@ -94,9 +94,12 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 ---
 
+https://arxiv.org/pdf/2503.10666
+
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Green Prompting]([https://arxiv.org/abs/2502.16440](https://arxiv.org/pdf/2503.10666))</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Compression Scaling Laws:Unifying Sparsity and Quantization](https://arxiv.org/abs/2502.16440)</b></sub> | 2025 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality](https://arxiv.org/abs/2410.19355)</b></sub> | 2025 | ICLR | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding](https://arxiv.org/abs/2410.03355)</b></sub> | 2025 | ICLR | <sub><b></b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</sub> |
