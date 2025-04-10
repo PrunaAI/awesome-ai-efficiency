@@ -63,9 +63,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Articles 📰
 - *"[What's the environmental cost of AI?](https://www.co2ai.com/insights/whats-the-environmental-cost-of-ai)"* (2024) - CO2 AI
 - *"[Shrinking the giants: Paving the way for TinyAI](https://www.cell.com/device/abstract/S2666-9986(24)00247-3)"* (2024) - Cell Press
-- *"[Automating GPU Kernel Generation with DeepSeek-R1 and Inference Time Scaling](https://developer.nvidia.com/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/)" (2025)* - Nvidia Developer
 - *"[DeepSeek might not be such good news for energy after all](https://www.technologyreview.com/2025/01/31/1110776/deepseek-might-not-be-such-good-news-for-energy-after-all/)"* (2024) - MIT Technology Review
-- *"[AI CUDA Engineer](https://sakana.ai/ai-cuda-engineer/)" (2025)* - Sakana AI
 - *"[AI already uses as much energy as a small country. It’s only the beginning.](https://www.vox.com/climate/2024/3/28/24111721/climate-ai-tech-energy-demand-rising)"* (2024) - Vox
 - *"[Quelle contribution du numérique à la décarbonation ?](https://www.strategie.gouv.fr/publications/contribution-numerique-decarbonation)"* (2024) - France Stratégie
 - *"[Les promesses de l’IA grevées par un lourd bilan carbone](https://www.lemonde.fr/planete/article/2024/08/04/climat-les-promesses-de-l-ia-grevees-par-un-lourd-bilan-carbone_6266586_3244.html)"* (2024) - Le Monde
@@ -81,8 +79,6 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - *"[Reducing the Carbon Footprint of Generative AI](https://www.linkedin.com/pulse/reducing-carbon-footprint-generative-ai-boris-gamazaychikov/)"* (2023) - Blog
 - *"[The MPG of LLMs: Exploring the Energy Efficiency of Generative AI](https://www.linkedin.com/pulse/mpg-llms-exploring-energy-efficiency-generative-ai-gamazaychikov/)"* (2023) - Blog
 - *"[Ecologie numérique: L’IA durable, entre vœu pieux et opportunité de marché](https://www.liberation.fr/economie/economie-numerique/lia-durable-entre-voeu-pieux-et-opportunite-de-marche-20250210_RRW3GZT5KFDSRCH4MIAYXKFKYE/?at_creation=Fil_Vert_2025-02-10&at_campaign=NL_FILVERT&at_email_type=acquisition&at_medium=email&actId=%7EaZ0rwLtGEnqhYxPXKI1iJ5Y1MdiymPA0SNCFqk5sBgGT7glf8EeY1JVPC1N7NQGN_CpyjQGeTBfhOG8JG34Nc4BinZSv7tVnM0VzpQUN77jrV4B7cXevAWfA%3D&actCampaignType=CAMPAIGN_MAIL&actSource=543696)"* (2025) - Libération
-- *"[]()"* (2024) -
-
 
 ---
 
@@ -101,11 +97,12 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
-| <sub><b>[]()</b></sub> | 2025 | ICLR | <sub><b></b></sub> |
-| <sub><b>[FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality](https://arxiv.org/abs/2410.19355)</b></sub> | 2025 | ICLR | <sub><b></b></sub> |
-| <sub><b>[LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding](https://arxiv.org/abs/2410.03355)</b></sub> | 2025 | ICLR | <sub><b></b></sub> |
-| <sub><b>[Real-Time Video Generation with Pyramid Attention Broadcast](https://arxiv.org/abs/2408.12588)</b></sub> | 2025 | ICLR | <sub><b></b></sub> |
-| <sub><b>[Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models](https://arxiv.org/abs/2406.12042)</b></sub> | 2025 | ICLR | <sub><b></b></sub> |
+| <sub><b>[Compression Scaling Laws:Unifying Sparsity and Quantization](https://arxiv.org/abs/2502.16440)</b></sub> | 2025 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality](https://arxiv.org/abs/2410.19355)</b></sub> | 2025 | ICLR | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding](https://arxiv.org/abs/2410.03355)</b></sub> | 2025 | ICLR | <sub><b></b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</sub> |
+| <sub><b>[Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models](https://arxiv.org/abs/2501.19392)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Real-Time Video Generation with Pyramid Attention Broadcast](https://arxiv.org/abs/2408.12588)</b></sub> | 2025 | ICLR | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models](https://arxiv.org/abs/2406.12042)</b></sub> | 2025 | ICLR | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing](https://arxiv.org/abs/2502.15618)</b></sub> | 2025 | ICLR | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute]()</b></sub> | 2025 | None | <sub><b></b></sub> |
@@ -113,13 +110,25 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[SpinQuant: LLM Quantization with Learned Rotations](https://arxiv.org/pdf/2405.16406))</b></sub> | 2025 | ICLR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models](https://arxiv.org/pdf/2304.03271))</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/pdf/2501.09732))</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Distillation Scaling Laws](https://arxiv.org/abs/2502.08606)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[QuEST: Stable Training of LLMs with 1-Bit Weights and Activations](https://arxiv.org/pdf/2502.05003))</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Distillation Scaling Laws](https://arxiv.org/pdf/2502.08606))</b></sub> | 2025 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
 | <sub><b>[From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate](https://arxiv.org/abs/2501.16548v1))</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs](https://arxiv.org/pdf/2404.00456)</b></sub> | 2024 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[The Iterative Optimal Brain Surgeon: Faster Sparse Recovery by Leveraging Second-Order Information](https://proceedings.neurips.cc/paper_files/paper/2024/hash/fc1dce23e0ba01d3b691789cfd4f65c3-Abstract-Conference.html)</b></sub> | 2024 | NeurIPS | <sub><b></b></sub> |
+| <sub><b>[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978)</b></sub> | 2024 | MLSys | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[LOFIT: Localized Fine-tuning on LLM Representations](https://arxiv.org/pdf/2406.01563)</b></sub> | 2024 | NeurIPS | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[Outlier Weighed Layerwise Sparsity: A Missing Secret Sauce for Pruning LLMs to High Sparsity](https://arxiv.org/pdf/2310.05175)</b></sub> | 2024 | ICML | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality](https://arxiv.org/pdf/2410.19355)</b></sub> | 2024 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks](https://arxiv.org/abs/2402.04396)</b></sub> | 2024 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[QTIP: Quantization with Trellises and Incoherence Processing](https://arxiv.org/abs/2406.11235)</b></sub> | 2024 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2409.17066)</b></sub> | 2024 | EMNLP | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs](https://arxiv.org/abs/2404.00456)</b></sub> | 2024 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](https://arxiv.org/abs/2405.04532)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Extreme Compression of Large Language Models via Additive Quantization](https://arxiv.org/html/2401.06118v2)</b></sub> | 2024 | ICML | <sub><b><![Quantization](https://img.shields.io/badge/Quantization-purple)/b></sub> |
+| <sub><b>[Fast Matrix Multiplications for Lookup Table-Quantized LLMs](https://arxiv.org/html/2407.10960v1)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[GPTVQ: The Blessing of Dimensionality for LLM Quantization](https://arxiv.org/html/2402.15319v1)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/abs/2403.14608)</b></sub> | 2024 | None | <sub><b![PEFT](https://img.shields.io/badge/Peft-purple)></b></sub> |
 | <sub><b>[SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration](https://arxiv.org/pdf/2410.06916)</b></sub> | 2024 | None | <sub><b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</b></sub> |
 | <sub><b>[SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices](https://arxiv.org/pdf/2406.02532)</b></sub> | 2024 | NeurIPS | <sub><b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</b></sub> |
 | <sub><b>[ShortGPT: Layers in Large Language Models are More Redundant Than You Expect]()</b>https://arxiv.org/pdf/2403.03853</sub> | 2024 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
@@ -132,15 +141,40 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Pushing the Limits of Large Language Model Quantization via the Linearity Theorem](https://arxiv.org/abs/2411.17525)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Position: Tensor Networks are a Valuable Asset for Green AI](https://arxiv.org/pdf/2205.12961)</b></sub> | 2024 | None | <sub><b>![Factorization](https://img.shields.io/badge/Factorization-purple)</b></sub> |
 | <sub><b>[Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI](https://arxiv.org/pdf/2409.14160)</b></sub> | 2024 | None | <sub><b></b></sub> |
+| <sub><b>[Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes](https://arxiv.org/abs/2402.05406)</b></sub> | 2024 | ICLR | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)</b></sub> | 2023 | SOSP | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[Broken Neural Scaling Laws](https://arxiv.org/abs/2210.14891)</b></sub> | 2023 | ICLR | <sub><b></b></sub> |
+| <sub><b>[SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)</b></sub> | 2023 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs](https://arxiv.org/pdf/2312.15230)</b></sub> | 2023 | None | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning](https://www.sciencedirect.com/science/article/pii/S2210537923000124#:~:text=However%2C%20for%20deployed%20systems%2C%20inference,but%20inference%20is%20done%20repeatedly.)</b></sub> | 2023 | Sustainable Computing: Informatics and Systems | <sub><b></b></sub> |
 | <sub><b>[An experimental comparison of software-based power meters: focus on CPU and GPU](https://inria.hal.science/hal-04030223v2/file/_CCGrid23__An_experimental_comparison_of_software_based_power_meters__from_CPU_to_GPU.pdf)</b></sub> | 2023 | CCGrid | <sub><b>![Hardware](https://img.shields.io/badge/Hardware-purple)</b></sub> |
 | <sub><b>[Fast Inference from Transformers via Speculative Decoding](https://openreview.net/pdf?id=C9NEblP8vS)</b></sub> | 2023 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)</b></sub> | 2023 | ICLR | <sub><b></b></sub> |
 | <sub><b>[GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/pdf/2210.17323)</b></sub> | 2023 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
-| <sub><b>[Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/pdf/2106.05237))</b></sub> | 2022 | CVPR | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[Knowledge Distillation: A Good Teacher is Patient and Consistent](https://arxiv.org/pdf/2106.05237))</b></sub> | 2022 | CVPR | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)</b></sub> | 2022 | ICLR | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
+| <sub><b>[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)</b></sub> | 2022 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Optimal Clipping and Magnitude-aware Differentiation for Improved Quantization-aware Training](https://arxiv.org/abs/2206.06501)</b></sub> | 2022 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Learnable Lookup Table for Neural Network Quantization](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learnable_Lookup_Table_for_Neural_Network_Quantization_CVPR_2022_paper.pdf)</b></sub> | 2022 | CVPR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)</b></sub> | 2022 | None | <sub><b></b></sub> |
+| <sub><b>[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)</b></sub> | 2022 | None | <sub><b></b></sub> |
+| <sub><b>[Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2110.04366)</b></sub> | 2022 | ICLR | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
+| <sub><b>[Parameter-Efficient Transfer Learning with Diff Pruning](https://arxiv.org/abs/2012.07463)</b></sub> | 2021 | ACL | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[What is the State of Neural Network Pruning?](https://arxiv.org/abs/2003.03033)</b></sub> | 2020 | MLSys | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Model Compression via Distillation and Quantization](https://arxiv.org/abs/1802.05668)</b></sub> | 2018 | ICLR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Optimal Brain Damage](https://proceedings.neurips.cc/paper_files/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)</b></sub> | 1989 | NeurIPs | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 
-| <sub><b>[]()</b></sub> | 2023 | None | <sub><b></b></sub> |
+---
+
+## Blogs 📰
+- *"[Tensor Parallelism with CUDA - Multi-GPU Matrix Multiplication](https://substack.com/home/post/p-158663472)" (2025)* - Substack
+- *"[Automating GPU Kernel Generation with DeepSeek-R1 and Inference Time Scaling](https://developer.nvidia.com/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/)" (2025)* - Nvidia Developer
+- *"[AI CUDA Engineer](https://sakana.ai/ai-cuda-engineer/)" (2025)* - Sakana AI
+- *"[The ML/AI Engineer's starter guide to GPU Programming](https://neuralbits.substack.com/p/the-mlai-engineers-starter-guide)" (2025)* - Neural Bits
+- *"[Understanding Quantization for LLMs](https://medium.com/@lmpo/understanding-model-quantization-for-llms-1573490d44ad)" (2024)* - Medium
+- *"[Don't Merge Your LoRA Adapter Into a 4-bit LLM](https://kaitchup.substack.com/p/dont-merge-your-lora-adapter-into?source=post_page-----2216ffcdc27b---------------------------------------)" (2023)* - Substack
+- *"[Matrix Multiplication Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html#math-mem)" (2023)* - Nvidia Developer
+- *"[GPU Performance Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html#understand-perf)" (2023)* - Nvidia Developer
 
 ---
 
@@ -152,6 +186,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Lectures 🎓
+- **[Data Compression, Theory and Applications]([https://www.youtube.com/c/MITHANLab](https://stanforddatacompressionclass.github.io/notes/contents.html#ee274-data-compression-course-notes))** (2024) - Stanford
 - **[MIT Han's Lab](https://www.youtube.com/c/MITHANLab)** (2024) - MIT Lecture by Han's lab
 - **[GPU Mode](https://www.youtube.com/@GPUMODE)** (2020) - Tutorials by GPU mode community
 
@@ -161,6 +196,10 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Name                  | Affiliation                       | Research Interests | Social Media |
 |-----------------------|-----------------------------------|---------------------|--------------|
+| **Saleh Ashkboos**        | ETH Zurich                        | <sub>Quantization</sub> | - |
+| **Dan Alistar**        | IST Austria                        | <sub>AI Compression</sub> | - |
+| **Elias Frantar**        | OpenAI                        | <sub>Quantization</sub> | - |
+| **Tim Dettmers**        | CMU                        | <sub>Quantization</sub> | - |
 | **Tim Dettmers**        | CMU                        | <sub>Quantization</sub> | - |
 | **Song Han**        | MIT                         | <sub>AI Efficiency</sub> | - |
 | **Scott Chamberlain**        | TBD                         | <sub>AI Efficiency</sub> | - |
