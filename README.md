@@ -83,6 +83,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Reports 📈
+- *"[The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)"* (2025) - Stanford Human-centered Artificial Intelligence
 - *"[Energy and AI](https://www.iea.org/reports/energy-and-ai)"* (2025) - International Energy Agency
 - *"[Key challenges for the environmental performance of AI](https://www.sustainableaicoalition.org/key-challenges/)"* (2025) - French Ministry
 - *"[Artificial Intelligence and electricity: A system dynamics approach](https://www.se.com/ww/en/insights/sustainability/sustainability-research-institute/artificial-intelligence-electricity-system-dynamics-approach/)"* (2024) - Schneider
