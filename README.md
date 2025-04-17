@@ -100,7 +100,8 @@ https://arxiv.org/pdf/2503.10666
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
-| <sub><b>[FISH-Tuning: Enhancing PEFT Methods with Fisher Information](https://arxiv.org/pdf/2504.04050)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[LoRI: Reducing Cross-Task Interference in Multi-Task LowRank Adaptation]([https://arxiv.org/pdf/2504.04050](https://arxiv.org/pdf/2504.07448))</b></sub> | 2025 | ICLR | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
+| <sub><b>[FISH-Tuning: Enhancing PEFT Methods with Fisher Information](https://arxiv.org/pdf/2504.04050)</b></sub> | 2025 | None | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[Green Prompting]([https://arxiv.org/abs/2502.16440](https://arxiv.org/pdf/2503.10666))</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Compression Scaling Laws:Unifying Sparsity and Quantization](https://arxiv.org/abs/2502.16440)</b></sub> | 2025 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality](https://arxiv.org/abs/2410.19355)</b></sub> | 2025 | ICLR | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
