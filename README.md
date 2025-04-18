@@ -57,6 +57,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[Model Optimization Toolkit](https://www.tensorflow.org/model_optimization)**: TensorFlow toolkit for optimizing machine learning models for deployment and execution.
 - **[Green Coding](https://green-coding.ai/)**: LLM service that you can use to prompt most open source models and see the resource usage.
 - **[EcoLogits](https://huggingface.co/spaces/genai-impact/ecologits-calculator)**: EcoLogits is a python library that tracks the energy consumption and environmental footprint of using generative AI models through APIs.
+- **[Fast Tokenizer](https://github.com/NLPOptimize/flash-tokenizer)**: Fast tokenizer is an efficient and optimized tokenizer engine for llm inference serving.
 
 ---
 
