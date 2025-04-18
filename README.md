@@ -100,6 +100,7 @@ https://arxiv.org/pdf/2503.10666
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[BitNet b1.58 2B4T Technical Report](https://arxiv.org/pdf/2504.12285)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[LoRI: Reducing Cross-Task Interference in Multi-Task LowRank Adaptation]([https://arxiv.org/pdf/2504.04050](https://arxiv.org/pdf/2504.07448))</b></sub> | 2025 | ICLR | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[FISH-Tuning: Enhancing PEFT Methods with Fisher Information](https://arxiv.org/pdf/2504.04050)</b></sub> | 2025 | None | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[Green Prompting]([https://arxiv.org/abs/2502.16440](https://arxiv.org/pdf/2503.10666))</b></sub> | 2025 | None | <sub><b></b></sub> |
