@@ -174,6 +174,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Optimizing Tokenization for Faster and Efficient LLM Processing](https://medium.com/@harishpillai1994/optimizing-tokenization-for-faster-and-efficient-llm-processing-bdc87b8f9fe3)" (2025)* - Medium
 - *"[Tensor Parallelism with CUDA - Multi-GPU Matrix Multiplication](https://substack.com/home/post/p-158663472)" (2025)* - Substack
 - *"[Automating GPU Kernel Generation with DeepSeek-R1 and Inference Time Scaling](https://developer.nvidia.com/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/)" (2025)* - Nvidia Developer
 - *"[AI CUDA Engineer](https://sakana.ai/ai-cuda-engineer/)" (2025)* - Sakana AI
