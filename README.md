@@ -170,6 +170,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2110.04366)</b></sub> | 2022 | ICLR | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[Parameter-Efficient Transfer Learning with Diff Pruning](https://arxiv.org/abs/2012.07463)</b></sub> | 2021 | ACL | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[What is the State of Neural Network Pruning?](https://arxiv.org/abs/2003.03033)</b></sub> | 2020 | MLSys | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)</b></sub> | 2020 | None | <sub><b></b></sub> |
 | <sub><b>[Model Compression via Distillation and Quantization](https://arxiv.org/abs/1802.05668)</b></sub> | 2018 | ICLR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Optimal Brain Damage](https://proceedings.neurips.cc/paper_files/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)</b></sub> | 1989 | NeurIPs | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 
