@@ -125,6 +125,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate](https://arxiv.org/abs/2501.16548v1))</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs](https://arxiv.org/pdf/2404.00456)</b></sub> | 2024 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[The Iterative Optimal Brain Surgeon: Faster Sparse Recovery by Leveraging Second-Order Information](https://proceedings.neurips.cc/paper_files/paper/2024/hash/fc1dce23e0ba01d3b691789cfd4f65c3-Abstract-Conference.html)</b></sub> | 2024 | NeurIPS | <sub><b></b></sub> |
+| <sub><b>[Palu: Compressing KV-Cache with Low-Rank Projection](https://arxiv.org/abs/2407.21118)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978)</b></sub> | 2024 | MLSys | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[LOFIT: Localized Fine-tuning on LLM Representations](https://arxiv.org/pdf/2406.01563)</b></sub> | 2024 | NeurIPS | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[Outlier Weighed Layerwise Sparsity: A Missing Secret Sauce for Pruning LLMs to High Sparsity](https://arxiv.org/pdf/2310.05175)</b></sub> | 2024 | ICML | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
@@ -177,6 +178,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Mixture of Experts: When Does It Really Deliver Energy Efficiency?](https://www.neuralwatt.com/blog/mixture-of-experts-when-does-it-really-deliver-energy-efficiency)" (2025)* - Neural Watt
 - *"[Efficient and Portable Mixture-of-Experts Communication](https://www.perplexity.ai/fr/hub/blog/efficient-and-portable-mixture-of-experts-communication)" (2025)* - Perplexity
 - *"[Optimizing Tokenization for Faster and Efficient LLM Processing](https://medium.com/@harishpillai1994/optimizing-tokenization-for-faster-and-efficient-llm-processing-bdc87b8f9fe3)" (2025)* - Medium
 - *"[Tensor Parallelism with CUDA - Multi-GPU Matrix Multiplication](https://substack.com/home/post/p-158663472)" (2025)* - Substack
