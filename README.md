@@ -59,6 +59,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[EcoLogits](https://huggingface.co/spaces/genai-impact/ecologits-calculator)**: EcoLogits is a python library that tracks the energy consumption and environmental footprint of using generative AI models through APIs.
 - **[Perplexity Kernels](https://github.com/ppl-ai/pplx-kernels)**: GPU kernels by Perplexity.
 - **[Fast Tokenizer](https://github.com/NLPOptimize/flash-tokenizer)**: Fast tokenizer is an efficient and optimized tokenizer engine for llm inference serving.
+- **[WeightWatcher](https://github.com/CalculatedContent/WeightWatcher)**: WeightWatcher (WW) is an open-source, diagnostic tool for analyzing Deep Neural Networks (DNN), without needing access to training or even test data..
+- **[Cockpit](https://github.com/f-dangel/cockpit)**: A Practical Debugging Tool for Training Deep Neural Networks.
 
 ---
 
@@ -96,6 +98,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - *"[Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)"* (2022) - OECD
 
 ---
+
+https://hkunlp.github.io/blog/2025/dream/
 
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
