@@ -15,7 +15,7 @@ A curated list of resources dedicated to enhancing efficiency in AI systems. Thi
 | **Factorization** | Breaking down complex models into simpler, efficient components | ![Factorization](https://img.shields.io/badge/Factorization-purple) |
 | **Compilation**   | Optimizing model code for specific hardware and environments | ![Compilation](https://img.shields.io/badge/Compilation-purple) |
 | **Parameter-Efficient Fine-tuning** | Learning a subset of parameters | ![PEFT](https://img.shields.io/badge/Peft-purple) |
-| **Speculative Decoding** | Learning a subset of parameters | ![SpecDec](https://img.shields.io/badge/SpecDec-purple) |
+| **Speculative Decoding** | Decoding with batches | ![SpecDec](https://img.shields.io/badge/SpecDec-purple) |
 | **Hardware**      | Leveraging specialized hardware for faster model execution | ![Hardware](https://img.shields.io/badge/Hardware-purple) |
 | **Training**      | Techniques for making model training faster and more efficient | ![Training](https://img.shields.io/badge/Training-purple) |
 | **Inference**     | Optimizing the speed and resource usage during model inference | ![Inference](https://img.shields.io/badge/Inference-purple) |
