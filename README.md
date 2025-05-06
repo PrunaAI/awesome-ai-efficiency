@@ -99,8 +99,6 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 ---
 
-https://hkunlp.github.io/blog/2025/dream/
-
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
