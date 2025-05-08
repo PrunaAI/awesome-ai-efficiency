@@ -27,7 +27,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Table of Contents
-  - [Table of Contents](#table-of-contents)
+
   - [Facts 📊](#facts-)
   - [Tools 🛠️](#tools-️)
   - [Articles 📰](#articles-)
