@@ -208,7 +208,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Lectures 🎓
-- **Data Compression, Theory and Applications: [YouTube](https://www.youtube.com/c/MITHANLab), [slides](https://stanforddatacompressionclass.github.io/notes/content.html#ee274-data-compression-course-notes)** (2024) - Stanford
+- **Data Compression, Theory and Applications: [YouTube](https://www.youtube.com/c/MITHANLab), [slides](https://stanforddatacompressionclass.github.io/notes/contents.html#ee274-data-compression-course-notes)** (2024) - Stanford
 - **[MIT Han's Lab](https://www.youtube.com/c/MITHANLab)** (2024) - MIT Lecture by Han's lab
 - **[GPU Mode](https://www.youtube.com/@GPUMODE)** (2020) - Tutorials by GPU mode community
 
