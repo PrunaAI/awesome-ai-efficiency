@@ -27,8 +27,6 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Table of Contents
-- [🌟 Awesome AI Efficiency 🌟](#-awesome-ai-efficiency-)
-    - [Topics Summary 🎨](#topics-summary-)
   - [Table of Contents](#table-of-contents)
   - [Facts 📊](#facts-)
   - [Tools 🛠️](#tools-️)
@@ -225,7 +223,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | **Elias Frantar**        | OpenAI                        | <sub>Quantization</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-frantar-5b43181a4/) |
 | **Tim Dettmers**        | CMU                        | <sub>Quantization</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timdettmers/) |
 | **Song Han**        | MIT                         | <sub>AI Efficiency</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/songhanmit/) |
-| **Scott Chamberlain**        | TBD                         | <sub>AI Efficiency</sub> |  |
+| **Scott Chamberlin**        | TBD                         | <sub>AI Efficiency</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-t-chamberlin/) |
 | **Benoit Petit**        | Boavista                         | <sub>Data Center Efficiency</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bepetit/) |
 | **Samuel Rincé**        | Gen AI Impact                                 | <sub>AI Efficiency, Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rince/) |
 | **Théo Alves Da Costa**           | Ekimetrics                       | <sub>AI Efficiency, Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-alves-da-costa-09397a82/) |
