@@ -27,16 +27,19 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Table of Contents
-- [Facts/Numbers 📊](#factsnumbers-📊)
-- [Tools 🛠️](#tools-🛠️)
-- [Articles 📰](#articles-📰)
-- [Reports 📈](#reports-📈)
-- [Research Papers 📄](#research-papers-📄)
-- [Blogs 📰](#blogs-📰)
-- [Books 📚](#books-📚)
-- [Lectures 🎓](#lectures-🎓)
-- [People 🧑‍💻](#people-🧑‍💻)
-- [Organizations 🌍](#Organizations-🌍)
+
+  - [Facts 📊](#facts-)
+  - [Tools 🛠️](#tools-️)
+  - [Articles 📰](#articles-)
+  - [Reports 📈](#reports-)
+  - [Research Articles 📄](#research-articles-)
+  - [Blogs 📰](#blogs-)
+  - [Books 📚](#books-)
+  - [Lectures 🎓](#lectures-)
+  - [People 🧑‍💻](#people-)
+  - [Organizations 🌍](#organizations-)
+  - [Contributing 🤝](#contributing-)
+  - [License 📄](#license-)
 
 ---
 
@@ -45,7 +48,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **1 smartphone charge**: Amount of energy required to AI generate a couple of images or run a few thousands inference with an LLM ([Source](https://arxiv.org/pdf/2311.16863), 2024)
 - **>10s**: Time requried to generate 1 HD image with Flux on H100 or to generate 100 tokens with Llama 3 on T4 ([Source](https://flux-pruna-benchmark.vercel.app/) and [Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard), 2024)
 - **61,848.0x**: Difference between the highest and lowest energy use in energy leaderboard for AI models ([Source](https://huggingface.co/spaces/AIEnergyScore/Leaderboard), 2025).
-- **1,300MWh**: GPT-3, for example, is estimated to use just under 1,300 megawatt hours (MWh) of electricity; about as much power as consumed annually by 130 US homes ([Source](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption))
+- **1,300MWh**: GPT-3, for example, is estimated to use just under 1,300 megawatt hours (MWh) of electricity; about as much power as consumed annually by 130 US homes ([Source](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption), 2024)
 
 ---
 
@@ -119,15 +122,15 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models](https://arxiv.org/abs/2406.12042)</b></sub> | 2025 | ICLR | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing](https://arxiv.org/abs/2502.15618)</b></sub> | 2025 | ICLR | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)</b></sub> | 2025 | None | <sub><b></b></sub> |
-| <sub><b>[FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute]()</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute](https://arxiv.org/abs/2502.20126)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/pdf/2502.06703)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
-| <sub><b>[SpinQuant: LLM Quantization with Learned Rotations](https://arxiv.org/pdf/2405.16406))</b></sub> | 2025 | ICLR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
-| <sub><b>[Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models](https://arxiv.org/pdf/2304.03271))</b></sub> | 2025 | None | <sub><b></b></sub> |
-| <sub><b>[Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/pdf/2501.09732))</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[SpinQuant: LLM Quantization with Learned Rotations](https://arxiv.org/pdf/2405.16406)</b></sub> | 2025 | ICLR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models](https://arxiv.org/pdf/2304.03271)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/pdf/2501.09732)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[Distillation Scaling Laws](https://arxiv.org/abs/2502.08606)</b></sub> | 2025 | None | <sub><b></b></sub> |
-| <sub><b>[QuEST: Stable Training of LLMs with 1-Bit Weights and Activations](https://arxiv.org/pdf/2502.05003))</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
-| <sub><b>[Distillation Scaling Laws](https://arxiv.org/pdf/2502.08606))</b></sub> | 2025 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
-| <sub><b>[From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate](https://arxiv.org/abs/2501.16548v1))</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[QuEST: Stable Training of LLMs with 1-Bit Weights and Activations](https://arxiv.org/pdf/2502.05003)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Distillation Scaling Laws](https://arxiv.org/pdf/2502.08606)</b></sub> | 2025 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate](https://arxiv.org/abs/2501.16548v1)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs](https://arxiv.org/pdf/2404.00456)</b></sub> | 2024 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[The Iterative Optimal Brain Surgeon: Faster Sparse Recovery by Leveraging Second-Order Information](https://proceedings.neurips.cc/paper_files/paper/2024/hash/fc1dce23e0ba01d3b691789cfd4f65c3-Abstract-Conference.html)</b></sub> | 2024 | NeurIPS | <sub><b></b></sub> |
 | <sub><b>[Palu: Compressing KV-Cache with Low-Rank Projection](https://arxiv.org/abs/2407.21118)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
@@ -166,7 +169,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Fast Inference from Transformers via Speculative Decoding](https://openreview.net/pdf?id=C9NEblP8vS)</b></sub> | 2023 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)</b></sub> | 2023 | ICLR | <sub><b></b></sub> |
 | <sub><b>[GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/pdf/2210.17323)</b></sub> | 2023 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
-| <sub><b>[Knowledge Distillation: A Good Teacher is Patient and Consistent](https://arxiv.org/pdf/2106.05237))</b></sub> | 2022 | CVPR | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[Knowledge Distillation: A Good Teacher is Patient and Consistent](https://arxiv.org/pdf/2106.05237)</b></sub> | 2022 | CVPR | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
 | <sub><b>[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)</b></sub> | 2022 | ICLR | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)</b></sub> | 2022 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Optimal Clipping and Magnitude-aware Differentiation for Improved Quantization-aware Training](https://arxiv.org/abs/2206.06501)</b></sub> | 2022 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
@@ -205,7 +208,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Lectures 🎓
-- **[Data Compression, Theory and Applications]([https://www.youtube.com/c/MITHANLab](https://stanforddatacompressionclass.github.io/notes/contents.html#ee274-data-compression-course-notes))** (2024) - Stanford
+- **Data Compression, Theory and Applications: [YouTube](https://www.youtube.com/c/MITHANLab), [slides](https://stanforddatacompressionclass.github.io/notes/contents.html#ee274-data-compression-course-notes)** (2024) - Stanford
 - **[MIT Han's Lab](https://www.youtube.com/c/MITHANLab)** (2024) - MIT Lecture by Han's lab
 - **[GPU Mode](https://www.youtube.com/@GPUMODE)** (2020) - Tutorials by GPU mode community
 
@@ -215,17 +218,16 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Name                  | Affiliation                       | Research Interests | Social Media |
 |-----------------------|-----------------------------------|---------------------|--------------|
-| **Saleh Ashkboos**        | ETH Zurich                        | <sub>Quantization</sub> | - |
-| **Dan Alistar**        | IST Austria                        | <sub>AI Compression</sub> | - |
-| **Elias Frantar**        | OpenAI                        | <sub>Quantization</sub> | - |
-| **Tim Dettmers**        | CMU                        | <sub>Quantization</sub> | - |
-| **Tim Dettmers**        | CMU                        | <sub>Quantization</sub> | - |
-| **Song Han**        | MIT                         | <sub>AI Efficiency</sub> | - |
-| **Scott Chamberlain**        | TBD                         | <sub>AI Efficiency</sub> | - |
-| **Benoit Petit**        | Boavista                         | <sub>Data Center Efficiency</sub> | - |
-| **Samuel Rincé**        | Gen AI Impact                                 | <sub>AI Efficiency, Sustainability</sub> | - |
-| **Téo Alves Da Costa**           | Ekimetrics                       | <sub>AI Efficiency, Sustainability</sub> | - |
-| **Sasha Luccioni**      | Hugging Face                       | <sub>AI Efficiency, Sustainability</sub> | - |
+| **Saleh Ashkboos**        | ETH Zurich                        | <sub>Quantization</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-ashkboos-806628161/) |
+| **Dan Alistarh**        | IST Austria                        | <sub>AI Compression</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dan-alistarh-613ba739/) |
+| **Elias Frantar**        | OpenAI                        | <sub>Quantization</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-frantar-5b43181a4/) |
+| **Tim Dettmers**        | CMU                        | <sub>Quantization</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timdettmers/) |
+| **Song Han**        | MIT                         | <sub>AI Efficiency</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/songhanmit/) |
+| **Scott Chamberlin**        | TBD                         | <sub>AI Efficiency</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-t-chamberlin/) |
+| **Benoit Petit**        | Boavista                         | <sub>Data Center Efficiency</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bepetit/) |
+| **Samuel Rincé**        | Gen AI Impact                                 | <sub>AI Efficiency, Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rince/) |
+| **Théo Alves Da Costa**           | Ekimetrics                       | <sub>AI Efficiency, Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-alves-da-costa-09397a82/) |
+| **Sasha Luccioni**      | Hugging Face                       | <sub>AI Efficiency, Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sashaluccioniphd/) |
 
 ## Organizations 🌍
 
@@ -235,6 +237,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | **Make.org**            | A global platform that empowers citizens to propose and take action on social and environmental issues through collective projects. | [make.org](https://www.make.org/)                     |
 | **CodeCarbon**          | A tool that helps track the carbon emissions of machine learning models and optimizes them for sustainability. | [codecarbon.io](https://www.codecarbon.io/)           |
 | **Sustainable AI Coalition** | An organization dedicated to advancing sustainability in AI technologies and promoting best practices for green AI. | [sustainableaicoalition.org](https://www.sustainableaicoalition.org/) |
+| **FruitPunch AI** | A community that solves AI solutions for impact organizations that contribute to the SDG's. | [fruitpunch.ai](https://www.fruitpunch.ai/) |
 
 ---
 
