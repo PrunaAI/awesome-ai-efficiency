@@ -44,6 +44,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Facts 📊
+-**3-40 Wh**! Amount of energy consumed for one small to long ChatGPT query? ([Source](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use), 2025)  
 - **2 nuclear plants**: Number of nuclear plants to constantly work ot generate enough energy if 80M people generate 5 pages per day ([Source](https://huggingface.co/spaces/genai-impact/ecologits-calculator), 2025)
 - **1 smartphone charge**: Amount of energy required to AI generate a couple of images or run a few thousands inference with an LLM ([Source](https://arxiv.org/pdf/2311.16863), 2024)
 - **>10s**: Time requried to generate 1 HD image with Flux on H100 or to generate 100 tokens with Llama 3 on T4 ([Source](https://flux-pruna-benchmark.vercel.app/) and [Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard), 2024)
@@ -70,6 +71,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Articles 📰
+- *"[How much energy does ChatGPT use?]([https://www.co2ai.com/insights/whats-the-environmental-cost-of-ai](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use))"* (2025) - Epoch AI
 - *"[What's the environmental cost of AI?](https://www.co2ai.com/insights/whats-the-environmental-cost-of-ai)"* (2024) - CO2 AI
 - *"[Shrinking the giants: Paving the way for TinyAI](https://www.cell.com/device/abstract/S2666-9986(24)00247-3)"* (2024) - Cell Press
 - *"[DeepSeek might not be such good news for energy after all](https://www.technologyreview.com/2025/01/31/1110776/deepseek-might-not-be-such-good-news-for-energy-after-all/)"* (2024) - MIT Technology Review
@@ -107,6 +109,9 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Frugal AI: Introduction, Concepts, Development and Open Questions](https://www.researchgate.net/publication/390920260_Frugal_AI_Introduction_Concepts_Development_and_Open_Questions)</b></sub> | 2025 | None | <sub><b>!</b></sub> |
+| <sub><b>[Efficient Time Series Processing for Transformers and State-Space Models through Token Merging](https://arxiv.org/pdf/2405.17951)</b></sub> | 2025 | None | <sub><b>!</b></sub> |
+| <sub><b>[A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency](https://arxiv.org/abs/2505.01658)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](https://arxiv.org/abs/2502.18137)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[BitNet b1.58 2B4T Technical Report](https://arxiv.org/pdf/2504.12285)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
@@ -186,6 +191,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Reduce, Reuse, Recycle: Why Open Source is a Win for Sustainability](https://huggingface.co/blog/sasha/reduce-reuse-recycle)" (2025)* - Hugging Face
 - *"[Mixture of Experts: When Does It Really Deliver Energy Efficiency?](https://www.neuralwatt.com/blog/mixture-of-experts-when-does-it-really-deliver-energy-efficiency)" (2025)* - Neural Watt
 - *"[Efficient and Portable Mixture-of-Experts Communication](https://www.perplexity.ai/fr/hub/blog/efficient-and-portable-mixture-of-experts-communication)" (2025)* - Perplexity
 - *"[Optimizing Tokenization for Faster and Efficient LLM Processing](https://medium.com/@harishpillai1994/optimizing-tokenization-for-faster-and-efficient-llm-processing-bdc87b8f9fe3)" (2025)* - Medium
