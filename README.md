@@ -44,7 +44,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Facts 📊
--**3-40 Wh**! Amount of energy consumed for one small to long ChatGPT query? ([Source](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use), 2025)  
+- **3-40 Wh**! Amount of energy consumed for one small to long ChatGPT query? ([Source](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use), 2025)  
 - **2 nuclear plants**: Number of nuclear plants to constantly work ot generate enough energy if 80M people generate 5 pages per day ([Source](https://huggingface.co/spaces/genai-impact/ecologits-calculator), 2025)
 - **1 smartphone charge**: Amount of energy required to AI generate a couple of images or run a few thousands inference with an LLM ([Source](https://arxiv.org/pdf/2311.16863), 2024)
 - **>10s**: Time requried to generate 1 HD image with Flux on H100 or to generate 100 tokens with Llama 3 on T4 ([Source](https://flux-pruna-benchmark.vercel.app/) and [Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard), 2024)
@@ -67,6 +67,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[Fast Tokenizer](https://github.com/NLPOptimize/flash-tokenizer)**: Fast tokenizer is an efficient and optimized tokenizer engine for llm inference serving.
 - **[WeightWatcher](https://github.com/CalculatedContent/WeightWatcher)**: WeightWatcher (WW) is an open-source, diagnostic tool for analyzing Deep Neural Networks (DNN), without needing access to training or even test data..
 - **[Cockpit](https://github.com/f-dangel/cockpit)**: A Practical Debugging Tool for Training Deep Neural Networks.
+- **[Electrictiy Map](https://app.electricitymaps.com/map/72h/hourly)**: A live map showing the origin of the electricity in world regions and their CO2 intensity.
+- **[MLCA](https://github.com/blubrom/MLCA)**: A tool for machine learning life cycle assessment.
 
 ---
 
@@ -94,12 +96,13 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Reports 📈
+- *"[A General Framework for Frugal AI](https://www.afnor.org/en/news/referential-for-measuring-and-reducing-environmental-impact-of-ia/)"* (2025) - AFNOR
 - *"[The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)"* (2025) - Stanford Human-centered Artificial Intelligence
 - *"[Energy and AI](https://www.iea.org/reports/energy-and-ai)"* (2025) - International Energy Agency
 - *"[Key challenges for the environmental performance of AI](https://www.sustainableaicoalition.org/key-challenges/)"* (2025) - French Ministry
 - *"[Artificial Intelligence and electricity: A system dynamics approach](https://www.se.com/ww/en/insights/sustainability/sustainability-research-institute/artificial-intelligence-electricity-system-dynamics-approach/)"* (2024) - Schneider
 - *"[Notable AI Models](https://epoch.ai/data/notable-ai-models)"* (2025) - Epoch AI
-- *"[Powering artificial intelligence](Deloitte)"* (2024) - Deloitte
+- *"[Powering Artificial Intelligence](Deloitte)"* (2024) - Deloitte
 - *"[Google Sustainability Reports](https://sustainability.google/reports/)"* (2024) - Google
 - *"[How much water does AI consume? The public deserves to know](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)"* (2023) - OECD
 - *"[Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)"* (2022) - OECD
@@ -109,7 +112,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
-| <sub><b>[Frugal AI: Introduction, Concepts, Development and Open Questions](https://www.researchgate.net/publication/390920260_Frugal_AI_Introduction_Concepts_Development_and_Open_Questions)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[Frugal AI: Introduction, Concepts, Development and Open Questions](https://www.researchgate.net/publication/390920260_Frugal_AI_Introduction_Concepts_Development_and_Open_Questions)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[Efficient Time Series Processing for Transformers and State-Space Models through Token Merging](https://arxiv.org/pdf/2405.17951)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency](https://arxiv.org/abs/2505.01658)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](https://arxiv.org/abs/2502.18137)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
@@ -136,6 +139,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[QuEST: Stable Training of LLMs with 1-Bit Weights and Activations](https://arxiv.org/pdf/2502.05003)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Distillation Scaling Laws](https://arxiv.org/pdf/2502.08606)</b></sub> | 2025 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
 | <sub><b>[From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate](https://arxiv.org/abs/2501.16548v1)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[Coca4ai: checking energy behaviors on AI data centers](https://arxiv.org/abs/2407.15670)</b></sub> | 2024 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple) ![Scalability](https://img.shields.io/badge/Scalability-purple)</b></sub> |
+| <sub><b>[How Green Can AI Be? A Study of Trends in Machine Learning Environmental Impacts](https://arxiv.org/abs/2412.17376)</b></sub> | 2024 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs](https://arxiv.org/pdf/2404.00456)</b></sub> | 2024 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[The Iterative Optimal Brain Surgeon: Faster Sparse Recovery by Leveraging Second-Order Information](https://proceedings.neurips.cc/paper_files/paper/2024/hash/fc1dce23e0ba01d3b691789cfd4f65c3-Abstract-Conference.html)</b></sub> | 2024 | NeurIPS | <sub><b></b></sub> |
 | <sub><b>[Palu: Compressing KV-Cache with Low-Rank Projection](https://arxiv.org/abs/2407.21118)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
@@ -163,13 +168,13 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Decoding Compressed Trust: Scrutinizing the Trustworthiness of Efficient LLMs Under Compression](https://arxiv.org/pdf/2310.05175)</b></sub> | 2024 | ICML | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Pushing the Limits of Large Language Model Quantization via the Linearity Theorem](https://arxiv.org/abs/2411.17525)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Position: Tensor Networks are a Valuable Asset for Green AI](https://arxiv.org/pdf/2205.12961)</b></sub> | 2024 | None | <sub><b>![Factorization](https://img.shields.io/badge/Factorization-purple)</b></sub> |
-| <sub><b>[Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI](https://arxiv.org/pdf/2409.14160)</b></sub> | 2024 | None | <sub><b></b></sub> |
+| <sub><b>[Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI](https://arxiv.org/pdf/2409.14160)</b></sub> | 2024 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes](https://arxiv.org/abs/2402.05406)</b></sub> | 2024 | ICLR | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)</b></sub> | 2023 | SOSP | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Broken Neural Scaling Laws](https://arxiv.org/abs/2210.14891)</b></sub> | 2023 | ICLR | <sub><b></b></sub> |
 | <sub><b>[SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)</b></sub> | 2023 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs](https://arxiv.org/pdf/2312.15230)</b></sub> | 2023 | None | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
-| <sub><b>[Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning](https://www.sciencedirect.com/science/article/pii/S2210537923000124#:~:text=However%2C%20for%20deployed%20systems%2C%20inference,but%20inference%20is%20done%20repeatedly.)</b></sub> | 2023 | Sustainable Computing: Informatics and Systems | <sub><b></b></sub> |
+| <sub><b>[Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning](https://www.sciencedirect.com/science/article/pii/S2210537923000124#:~:text=However%2C%20for%20deployed%20systems%2C%20inference,but%20inference%20is%20done%20repeatedly.)</b></sub> | 2023 | Sustainable Computing: Informatics and Systems | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[An experimental comparison of software-based power meters: focus on CPU and GPU](https://inria.hal.science/hal-04030223v2/file/_CCGrid23__An_experimental_comparison_of_software_based_power_meters__from_CPU_to_GPU.pdf)</b></sub> | 2023 | CCGrid | <sub><b>![Hardware](https://img.shields.io/badge/Hardware-purple)</b></sub> |
 | <sub><b>[Fast Inference from Transformers via Speculative Decoding](https://openreview.net/pdf?id=C9NEblP8vS)</b></sub> | 2023 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)</b></sub> | 2023 | ICLR | <sub><b></b></sub> |
@@ -233,7 +238,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | **Benoit Petit**        | Boavista                         | <sub>Data Center Efficiency</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bepetit/) |
 | **Samuel Rincé**        | Gen AI Impact                                 | <sub>AI Efficiency, Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rince/) |
 | **Théo Alves Da Costa**           | Ekimetrics                       | <sub>AI Efficiency, Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-alves-da-costa-09397a82/) |
-| **Sasha Luccioni**      | Hugging Face                       | <sub>AI Efficiency, Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sashaluccioniphd/) |
+| **Sasha Luccioni**      | Hugging Face                       | <sub>AI Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sashaluccioniphd/) |
+| **Anne-Laure Ligozat**      | ENSIEE                       | <sub>AI Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anne-laure-ligozat-009a095/?originalSubdomain=fr) |
 
 ## Organizations 🌍
 
