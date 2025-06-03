@@ -74,6 +74,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 ## Articles 📰
 - *"[How much energy does ChatGPT use?]([https://www.co2ai.com/insights/whats-the-environmental-cost-of-ai](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use))"* (2025) - Epoch AI
+- *[Data centers et intelligence artificielle : la course au gigantisme](https://www.lemonde.fr/economie/article/2025/06/01/data-centers-et-intelligence-artificielle-la-course-au-gigantisme_6609751_3234.html)* (2025) - Le Monde
 - *"[What's the environmental cost of AI?](https://www.co2ai.com/insights/whats-the-environmental-cost-of-ai)"* (2024) - CO2 AI
 - *"[Shrinking the giants: Paving the way for TinyAI](https://www.cell.com/device/abstract/S2666-9986(24)00247-3)"* (2024) - Cell Press
 - *"[DeepSeek might not be such good news for energy after all](https://www.technologyreview.com/2025/01/31/1110776/deepseek-might-not-be-such-good-news-for-energy-after-all/)"* (2024) - MIT Technology Review
@@ -112,6 +113,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Hardware-Efficient Attention for Fast Decoding](https://arxiv.org/abs/2505.21487)</b></sub> | 2025 | None | <sub><b>![Hardware](https://img.shields.io/badge/Hardware-purple)</b></sub> |
+| <sub><b>[Model-Preserving Adaptive Rounding](https://arxiv.org/pdf/2505.22988v1)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Frugal AI: Introduction, Concepts, Development and Open Questions](https://www.researchgate.net/publication/390920260_Frugal_AI_Introduction_Concepts_Development_and_Open_Questions)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[Efficient Time Series Processing for Transformers and State-Space Models through Token Merging](https://arxiv.org/pdf/2405.17951)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency](https://arxiv.org/abs/2505.01658)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
