@@ -73,7 +73,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Articles 📰
-- *"[How much energy does ChatGPT use?]([https://www.co2ai.com/insights/whats-the-environmental-cost-of-ai](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use))"* (2025) - Epoch AI
+- *"[How much energy does ChatGPT use?](https://www.co2ai.com/insights/whats-the-environmental-cost-of-ai)"* (2025) - Epoch AI
 - *[Data centers et intelligence artificielle : la course au gigantisme](https://www.lemonde.fr/economie/article/2025/06/01/data-centers-et-intelligence-artificielle-la-course-au-gigantisme_6609751_3234.html)* (2025) - Le Monde
 - *"[What's the environmental cost of AI?](https://www.co2ai.com/insights/whats-the-environmental-cost-of-ai)"* (2024) - CO2 AI
 - *"[Shrinking the giants: Paving the way for TinyAI](https://www.cell.com/device/abstract/S2666-9986(24)00247-3)"* (2024) - Cell Press
@@ -175,6 +175,9 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes](https://arxiv.org/abs/2402.05406)</b></sub> | 2024 | ICLR | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)</b></sub> | 2023 | SOSP | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Broken Neural Scaling Laws](https://arxiv.org/abs/2210.14891)</b></sub> | 2023 | ICLR | <sub><b></b></sub> |
+| <sub><b>[Post Training Mixed Precision Quantization of Neural Networks using
+First-Order Information](https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Chauhan_Post_Training_Mixed_Precision_Quantization_of_Neural_Networks_Using_First-Order_ICCVW_2023_paper.pdf)</b></sub> | 2023 | ICCV | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[A Practical Mixed Precision Algorithm for Post-Training Quantization](https://arxiv.org/abs/2302.05397)</b></sub> | 2023 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)</b></sub> | 2023 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs](https://arxiv.org/pdf/2312.15230)</b></sub> | 2023 | None | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning](https://www.sciencedirect.com/science/article/pii/S2210537923000124#:~:text=However%2C%20for%20deployed%20systems%2C%20inference,but%20inference%20is%20done%20repeatedly.)</b></sub> | 2023 | Sustainable Computing: Informatics and Systems | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
@@ -182,6 +185,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Fast Inference from Transformers via Speculative Decoding](https://openreview.net/pdf?id=C9NEblP8vS)</b></sub> | 2023 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)</b></sub> | 2023 | ICLR | <sub><b></b></sub> |
 | <sub><b>[GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/pdf/2210.17323)</b></sub> | 2023 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Mixed-Precision Neural Network Quantization via Learned Layer-wise Importance](https://arxiv.org/pdf/2203.08368)</b></sub> | 2022 | ECCV | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Knowledge Distillation: A Good Teacher is Patient and Consistent](https://arxiv.org/pdf/2106.05237)</b></sub> | 2022 | CVPR | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
 | <sub><b>[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)</b></sub> | 2022 | ICLR | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)</b></sub> | 2022 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
