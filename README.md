@@ -44,8 +44,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Facts 📊
-- **3-40 Wh**! Amount of energy consumed for one small to long ChatGPT query ([Source](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use), 2025)  
-- **1L**! Estimated amount of water required for 20-100 ChatGPT queries ([Source](https://arxiv.org/pdf/2304.03271), 2025)  
+- **3-40 Wh**: Amount of energy consumed for one small to long ChatGPT query ([Source](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use), 2025)  
+- **1L**: Estimated amount of water required for 20-100 ChatGPT queries ([Source](https://arxiv.org/pdf/2304.03271), 2025)  
 - **2 nuclear plants**: Number of nuclear plants to constantly work ot generate enough energy if 80M people generate 5 pages per day ([Source](https://huggingface.co/spaces/genai-impact/ecologits-calculator), 2025)
 - **1 smartphone charge**: Amount of energy required to AI generate a couple of images or run a few thousands inference with an LLM ([Source](https://arxiv.org/pdf/2311.16863), 2024)
 - **>10s**: Time requried to generate 1 HD image with Flux on H100 or to generate 100 tokens with Llama 3 on T4 ([Source](https://flux-pruna-benchmark.vercel.app/) and [Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard), 2024)
