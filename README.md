@@ -28,12 +28,15 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 ## Table of Contents
 
+- [🌟 Awesome AI Efficiency 🌟](#-awesome-ai-efficiency-)
+    - [Topics Summary 🎨](#topics-summary-)
+  - [Table of Contents](#table-of-contents)
   - [Facts 📊](#facts-)
   - [Tools 🛠️](#tools-️)
   - [Articles 📰](#articles-)
   - [Reports 📈](#reports-)
   - [Research Articles 📄](#research-articles-)
-  - [Blogs 📰](#blogs-)
+  - [Blogs](#blogs)
   - [Books 📚](#books-)
   - [Lectures 🎓](#lectures-)
   - [People 🧑‍💻](#people-)
@@ -44,8 +47,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Facts 📊
-- **3-40 Wh**: Amount of energy consumed for one small to long ChatGPT query ([Source](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use), 2025)  
-- **1L**: Estimated amount of water required for 20-100 ChatGPT queries ([Source](https://arxiv.org/pdf/2304.03271), 2025)  
+- **3-40 Wh**: Amount of energy consumed for one small to long ChatGPT query ([Source](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use), 2025)
+- **1L**: Estimated amount of water required for 20-100 ChatGPT queries ([Source](https://arxiv.org/pdf/2304.03271), 2025)
 - **2 nuclear plants**: Number of nuclear plants to constantly work ot generate enough energy if 80M people generate 5 pages per day ([Source](https://huggingface.co/spaces/genai-impact/ecologits-calculator), 2025)
 - **1 smartphone charge**: Amount of energy required to AI generate a couple of images or run a few thousands inference with an LLM ([Source](https://arxiv.org/pdf/2311.16863), 2024)
 - **>10s**: Time requried to generate 1 HD image with Flux on H100 or to generate 100 tokens with Llama 3 on T4 ([Source](https://flux-pruna-benchmark.vercel.app/) and [Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard), 2024)
@@ -59,6 +62,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[TensorRT](https://developer.nvidia.com/tensorrt)**: High-performance deep learning inference library for NVIDIA GPUs.
 - **[ONNX](https://onnx.ai/)**: Open Neural Network Exchange format for interoperability among deep learning frameworks.
 - **[Code Carbon](https://mlco2.github.io/codecarbon/)**: Library to track energy and carbon efficiency of various hardware.
+- **[Zeus](https://github.com/ml-energy/zeus)**: Measure and optimize the energy consumption of your AI applications and training!
 - **[LLM Perf](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)**: A framework for benchmarking the performance of transformers models with different hardwares, backends and optimizations.
 - **[AI Energy Score](https://huggingface.co/spaces/AIEnergyScore/submission_portal)**: An initiative to establish comparable energy efficiency ratings for AI models, helping the industry make informed decisions about sustainability in AI development.
 - **[Model Optimization Toolkit](https://www.tensorflow.org/model_optimization)**: TensorFlow toolkit for optimizing machine learning models for deployment and execution.
@@ -200,10 +204,13 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)</b></sub> | 2020 | None | <sub><b></b></sub> |
 | <sub><b>[Model Compression via Distillation and Quantization](https://arxiv.org/abs/1802.05668)</b></sub> | 2018 | ICLR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Optimal Brain Damage](https://proceedings.neurips.cc/paper_files/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)</b></sub> | 1989 | NeurIPs | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Perseus: Reducing Energy Bloat in Large Model Training](https://arxiv.org/abs/2312.06902)</b></sub> | 2024 | None | <sub><b>![Hardware](https://img.shields.io/badge/Hardware-purple)</b></sub> |
+| <sub><b>[Perseus: Reducing Energy Bloat in Large Model Training](https://arxiv.org/abs/2312.06902)</b></sub> | 2024 | None | <sub><b>![Hardware](https://img.shields.io/badge/Hardware-purple)</b></sub> |
 
 ---
 
-## Blogs 📰
+## Blogs
+
 - *"[Reduce, Reuse, Recycle: Why Open Source is a Win for Sustainability](https://huggingface.co/blog/sasha/reduce-reuse-recycle)" (2025)* - Hugging Face
 - *"[Mixture of Experts: When Does It Really Deliver Energy Efficiency?](https://www.neuralwatt.com/blog/mixture-of-experts-when-does-it-really-deliver-energy-efficiency)" (2025)* - Neural Watt
 - *"[Efficient and Portable Mixture-of-Experts Communication](https://www.perplexity.ai/fr/hub/blog/efficient-and-portable-mixture-of-experts-communication)" (2025)* - Perplexity
@@ -227,6 +234,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Lectures 🎓
+
 - **AI Efficiency Courses: [Slides](https://ln5.sync.com/dl/7d21bc370/gxpiqj2b-4k22jgex-x8i7zgxr-9pkajy52), [Exercises](https://github.com/PrunaAI/courses)** (2025) - Bertrand Charpentier
 - **Data Compression, Theory and Applications: [YouTube](https://www.youtube.com/c/MITHANLab), [Slides](https://stanforddatacompressionclass.github.io/notes/contents.html#ee274-data-compression-course-notes)** (2024) - Stanford
 - **[MIT Han's Lab](https://www.youtube.com/c/MITHANLab)** (2024) - MIT Lecture by Han's lab
@@ -257,6 +265,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | **Data4Good**           | A platform that connects data scientists with social impact projects to address global challenges using data. | [data4good.org](https://www.data4good.org/)           |
 | **Make.org**            | A global platform that empowers citizens to propose and take action on social and environmental issues through collective projects. | [make.org](https://www.make.org/)                     |
 | **CodeCarbon**          | A tool that helps track the carbon emissions of machine learning models and optimizes them for sustainability. | [codecarbon.io](https://www.codecarbon.io/)           |
+| **ML.Energy** | A research group focused on measuring and reducing the energy consumption of machine learning and AI systems. | [ml.energy](https://ml.energy/) |
 | **Sustainable AI Coalition** | An organization dedicated to advancing sustainability in AI technologies and promoting best practices for green AI. | [sustainableaicoalition.org](https://www.sustainableaicoalition.org/) |
 | **FruitPunch AI** | A community that solves AI solutions for impact organizations that contribute to the SDG's. | [fruitpunch.ai](https://www.fruitpunch.ai/) |
 
