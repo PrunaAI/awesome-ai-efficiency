@@ -44,13 +44,16 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Facts 📊
-- **3-40 Wh**: Amount of energy consumed for one small to long ChatGPT query ([Source](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use), 2025)  
+- **3-40Wh**: Amount of energy consumed for one small to long ChatGPT query ([Source](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use), 2025)  
 - **1L**: Estimated amount of water required for 20-100 ChatGPT queries ([Source](https://arxiv.org/pdf/2304.03271), 2025)  
 - **2 nuclear plants**: Number of nuclear plants to constantly work ot generate enough energy if 80M people generate 5 pages per day ([Source](https://huggingface.co/spaces/genai-impact/ecologits-calculator), 2025)
 - **1 smartphone charge**: Amount of energy required to AI generate a couple of images or run a few thousands inference with an LLM ([Source](https://arxiv.org/pdf/2311.16863), 2024)
 - **>10s**: Time requried to generate 1 HD image with Flux on H100 or to generate 100 tokens with Llama 3 on T4 ([Source](https://flux-pruna-benchmark.vercel.app/) and [Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard), 2024)
 - **61,848.0x**: Difference between the highest and lowest energy use in energy leaderboard for AI models ([Source](https://huggingface.co/spaces/AIEnergyScore/Leaderboard), 2025).
 - **1,300MWh**: GPT-3, for example, is estimated to use just under 1,300 megawatt hours (MWh) of electricity; about as much power as consumed annually by 130 US homes ([Source](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption), 2024)
+- **800M users/week**: Amount of users using ChatGPT per week in 2025 ([Source](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/))
+- **1B messages/day**: Amount of ChatGPT queries per day in 2025 ([Source](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/))
+- **+160%**: Expected increase of data center power consumption by 2030 ([Source](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/))
 
 ---
 
@@ -74,6 +77,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Articles 📰
+- *"[AI’s Impacts, how to limit them, and why](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/)"* (2025) - Better Tech
 - *"[How much energy does ChatGPT use?](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use)"* (2025) - Epoch AI
 - *[Data centers et intelligence artificielle : la course au gigantisme](https://www.lemonde.fr/economie/article/2025/06/01/data-centers-et-intelligence-artificielle-la-course-au-gigantisme_6609751_3234.html)* (2025) - Le Monde
 - *"[What's the environmental cost of AI?](https://www.co2ai.com/insights/whats-the-environmental-cost-of-ai)"* (2024) - CO2 AI
