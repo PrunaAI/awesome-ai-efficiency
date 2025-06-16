@@ -119,6 +119,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse](https://arxiv.org/pdf/2504.10540)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Hardware-Efficient Attention for Fast Decoding](https://arxiv.org/abs/2505.21487)</b></sub> | 2025 | None | <sub><b>![Hardware](https://img.shields.io/badge/Hardware-purple)</b></sub> |
 | <sub><b>[Model-Preserving Adaptive Rounding](https://arxiv.org/pdf/2505.22988v1)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Frugal AI: Introduction, Concepts, Development and Open Questions](https://www.researchgate.net/publication/390920260_Frugal_AI_Introduction_Concepts_Development_and_Open_Questions)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
