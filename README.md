@@ -73,6 +73,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[Cockpit](https://github.com/f-dangel/cockpit)**: A Practical Debugging Tool for Training Deep Neural Networks.
 - **[Electrictiy Map](https://app.electricitymaps.com/map/72h/hourly)**: A live map showing the origin of the electricity in world regions and their CO2 intensity.
 - **[MLCA](https://github.com/blubrom/MLCA)**: A tool for machine learning life cycle assessment.
+- **[TritonParse](https://github.com/pytorch-labs/tritonparse)**: A visualization and analysis tool for Triton IR files, designed to help developers analyze, debug, and understand Triton kernel compilation processes.
 
 ---
 
@@ -208,6 +209,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[The LLM Engineer Almanac](https://modal.com/llm-almanac/advisor?filters=model%3DLlama+3.1+8B%2Ctokens%3D128%3B1024%2Cttft_p95%3C1)" (2025)* - Modal
+- *"[Enhance Your Models in 5 Minutes with the Hugging Face Kernel Hub](https://huggingface.co/blog/hello-hf-kernels)" (2025)* - Hugging Face
 - *"[Reduce, Reuse, Recycle: Why Open Source is a Win for Sustainability](https://huggingface.co/blog/sasha/reduce-reuse-recycle)" (2025)* - Hugging Face
 - *"[Mixture of Experts: When Does It Really Deliver Energy Efficiency?](https://www.neuralwatt.com/blog/mixture-of-experts-when-does-it-really-deliver-energy-efficiency)" (2025)* - Neural Watt
 - *"[Efficient and Portable Mixture-of-Experts Communication](https://www.perplexity.ai/fr/hub/blog/efficient-and-portable-mixture-of-experts-communication)" (2025)* - Perplexity
