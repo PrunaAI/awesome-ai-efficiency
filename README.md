@@ -242,6 +242,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 
 | Name                  | Affiliation                       | Research Interests | Social Media |
 |-----------------------|-----------------------------------|---------------------|--------------|
+| **James Martin**        | Better Tech                        | <sub>AI Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesmartin75/) |
+
 | **Saleh Ashkboos**        | ETH Zurich                        | <sub>Quantization</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-ashkboos-806628161/) |
 | **Dan Alistarh**        | IST Austria                        | <sub>AI Compression</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dan-alistarh-613ba739/) |
 | **Elias Frantar**        | OpenAI                        | <sub>Quantization</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-frantar-5b43181a4/) |
