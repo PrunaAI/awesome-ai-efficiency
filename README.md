@@ -197,6 +197,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)</b></sub> | 2022 | ICLR | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
 | <sub><b>[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)</b></sub> | 2022 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Optimal Clipping and Magnitude-aware Differentiation for Improved Quantization-aware Training](https://arxiv.org/abs/2206.06501)</b></sub> | 2022 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Sustainable AI: Environmental Implications, Challenges and Opportunities]([https://www.researchgate.net/publication/390920260_Frugal_AI_Introduction_Concepts_Development_and_Open_Questions](https://arxiv.org/abs/2111.00364))</b></sub> | 2022 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[Learnable Lookup Table for Neural Network Quantization](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learnable_Lookup_Table_for_Neural_Network_Quantization_CVPR_2022_paper.pdf)</b></sub> | 2022 | CVPR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)</b></sub> | 2022 | None | <sub><b></b></sub> |
 | <sub><b>[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)</b></sub> | 2022 | None | <sub><b></b></sub> |
@@ -247,7 +248,6 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | Name                  | Affiliation                       | Research Interests | Social Media |
 |-----------------------|-----------------------------------|---------------------|--------------|
 | **James Martin**        | Better Tech                        | <sub>AI Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesmartin75/) |
-
 | **Saleh Ashkboos**        | ETH Zurich                        | <sub>Quantization</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-ashkboos-806628161/) |
 | **Dan Alistarh**        | IST Austria                        | <sub>AI Compression</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dan-alistarh-613ba739/) |
 | **Elias Frantar**        | OpenAI                        | <sub>Quantization</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-frantar-5b43181a4/) |
