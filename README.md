@@ -63,6 +63,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[ONNX](https://onnx.ai/)**: Open Neural Network Exchange format for interoperability among deep learning frameworks.
 - **[Code Carbon](https://mlco2.github.io/codecarbon/)**: Library to track energy and carbon efficiency of various hardware.
 - **[LLM Perf](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)**: A framework for benchmarking the performance of transformers models with different hardwares, backends and optimizations.
+- **[ML.ENERGY Leaderboard](https://ml.energy/leaderboard/?__theme=dark?__theme=light)**: An initiative to benchmark energy efficiency of AI models.
 - **[AI Energy Score](https://huggingface.co/spaces/AIEnergyScore/submission_portal)**: An initiative to establish comparable energy efficiency ratings for AI models, helping the industry make informed decisions about sustainability in AI development.
 - **[Model Optimization Toolkit](https://www.tensorflow.org/model_optimization)**: TensorFlow toolkit for optimizing machine learning models for deployment and execution.
 - **[Green Coding](https://green-coding.ai/)**: LLM service that you can use to prompt most open source models and see the resource usage.
@@ -74,10 +75,12 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[Electrictiy Map](https://app.electricitymaps.com/map/72h/hourly)**: A live map showing the origin of the electricity in world regions and their CO2 intensity.
 - **[MLCA](https://github.com/blubrom/MLCA)**: A tool for machine learning life cycle assessment.
 - **[TritonParse](https://github.com/pytorch-labs/tritonparse)**: A visualization and analysis tool for Triton IR files, designed to help developers analyze, debug, and understand Triton kernel compilation processes.
+- **[Routing on Random Forests](https://github.com/Not-Diamond/RoRF/)**: A framework for training and serving LLM based on random forest-based routers, thus allowing to optimize for costs.
 
 ---
 
 ## Articles 📰
+- *"[Energy and AI Observatory](https://www.iea.org/data-and-statistics/data-tools/energy-and-ai-observatory?tab=Energy+for+AI)"* (2025) - IEA
 - *"[AI’s Impacts, how to limit them, and why](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/)"* (2025) - Better Tech
 - *"[How much energy does ChatGPT use?](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use)"* (2025) - Epoch AI
 - *[Data centers et intelligence artificielle : la course au gigantisme](https://www.lemonde.fr/economie/article/2025/06/01/data-centers-et-intelligence-artificielle-la-course-au-gigantisme_6609751_3234.html)* (2025) - Le Monde
@@ -119,6 +122,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Mirage: A Multi-Level Superoptimizer for Tensor Programs](https://arxiv.org/pdf/2405.05751)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[The ML.ENERGY Benchmark: Toward Automated Inference Energy Measurement and Optimization](https://arxiv.org/abs/2505.06371)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse](https://arxiv.org/pdf/2504.10540)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Hardware-Efficient Attention for Fast Decoding](https://arxiv.org/abs/2505.21487)</b></sub> | 2025 | None | <sub><b>![Hardware](https://img.shields.io/badge/Hardware-purple)</b></sub> |
 | <sub><b>[Model-Preserving Adaptive Rounding](https://arxiv.org/pdf/2505.22988v1)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
@@ -184,6 +189,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)</b></sub> | 2023 | SOSP | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Broken Neural Scaling Laws](https://arxiv.org/abs/2210.14891)</b></sub> | 2023 | ICLR | <sub><b></b></sub> |
 | <sub><b>[Post Training Mixed Precision Quantization of Neural Networks using First-Order Information](https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Chauhan_Post_Training_Mixed_Precision_Quantization_of_Neural_Networks_Using_First-Order_ICCVW_2023_paper.pdf)</b></sub> | 2023 | ICCV | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/pdf/2310.01889)</b></sub> | 2023 | None | <sub><b></b></sub> |
 | <sub><b>[A Practical Mixed Precision Algorithm for Post-Training Quantization](https://arxiv.org/abs/2302.05397)</b></sub> | 2023 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)</b></sub> | 2023 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs](https://arxiv.org/pdf/2312.15230)</b></sub> | 2023 | None | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
