@@ -76,6 +76,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[MLCA](https://github.com/blubrom/MLCA)**: A tool for machine learning life cycle assessment.
 - **[TritonParse](https://github.com/pytorch-labs/tritonparse)**: A visualization and analysis tool for Triton IR files, designed to help developers analyze, debug, and understand Triton kernel compilation processes.
 - **[Routing on Random Forests](https://github.com/Not-Diamond/RoRF/)**: A framework for training and serving LLM based on random forest-based routers, thus allowing to optimize for costs.
+- **[LLMCache](https://github.com/LMCache/LMCache)**: An LLM serving engine extension to reduce time-to-first-token and increase throughput, especially under long-context scenarios. 
 
 ---
 
@@ -122,6 +123,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://nvlabs.github.io/Fast-dLLM/paper/fast_dllm.pdf)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas](https://arxiv.org/abs/2506.03275)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Mirage: A Multi-Level Superoptimizer for Tensor Programs](https://arxiv.org/pdf/2405.05751)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[The ML.ENERGY Benchmark: Toward Automated Inference Energy Measurement and Optimization](https://arxiv.org/abs/2505.06371)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse](https://arxiv.org/pdf/2504.10540)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
@@ -217,6 +220,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Introducing NVFP4 for Efficient and Accurate Low-Precision Inference](https://developer.nvidia.com/blog/introducing-nvfp4-for-efficient-and-accurate-low-precision-inference/?ncid=so-link-105283&linkId=100000370829029)" (2025)* - Nvidia
 - *"[The LLM Engineer Almanac](https://modal.com/llm-almanac/advisor?filters=model%3DLlama+3.1+8B%2Ctokens%3D128%3B1024%2Cttft_p95%3C1)" (2025)* - Modal
 - *"[Enhance Your Models in 5 Minutes with the Hugging Face Kernel Hub](https://huggingface.co/blog/hello-hf-kernels)" (2025)* - Hugging Face
 - *"[Reduce, Reuse, Recycle: Why Open Source is a Win for Sustainability](https://huggingface.co/blog/sasha/reduce-reuse-recycle)" (2025)* - Hugging Face
