@@ -159,7 +159,6 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[SpinQuant: LLM Quantization with Learned Rotations](https://arxiv.org/pdf/2405.16406)</b></sub> | 2025 | ICLR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models](https://arxiv.org/pdf/2304.03271)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/pdf/2501.09732)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
-| <sub><b>[Distillation Scaling Laws](https://arxiv.org/abs/2502.08606)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[QuEST: Stable Training of LLMs with 1-Bit Weights and Activations](https://arxiv.org/pdf/2502.05003)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Distillation Scaling Laws](https://arxiv.org/pdf/2502.08606)</b></sub> | 2025 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
 | <sub><b>[From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate](https://arxiv.org/abs/2501.16548v1)</b></sub> | 2025 | None | <sub><b></b></sub> |
