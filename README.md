@@ -77,6 +77,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[TritonParse](https://github.com/pytorch-labs/tritonparse)**: A visualization and analysis tool for Triton IR files, designed to help developers analyze, debug, and understand Triton kernel compilation processes.
 - **[Routing on Random Forests](https://github.com/Not-Diamond/RoRF/)**: A framework for training and serving LLM based on random forest-based routers, thus allowing to optimize for costs.
 - **[LLMCache](https://github.com/LMCache/LMCache)**: An LLM serving engine extension to reduce time-to-first-token and increase throughput, especially under long-context scenarios. 
+- **[ExLlamaV3](https://github.com/turboderp-org/exllamav3)**: An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs.
+- **[FlashDeBERTa](https://github.com/Knowledgator/FlashDeBERTa)**: Flash implementation of DeBERTa disentangled attention mechanism.
 
 ---
 
@@ -123,6 +125,9 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Jenga: Effective Memory Management for Serving LLM with Heterogeneity](https://arxiv.org/abs/2503.18292)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[Learning Few-Step Diffusion Models by Trajectory Distribution Matching](https://arxiv.org/abs/2503.06674)</b></sub> | 2025 | ICCV | <sub><b></b></sub> |
+| <sub><b>[Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation](https://arxiv.org/abs/2506.19852)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://nvlabs.github.io/Fast-dLLM/paper/fast_dllm.pdf)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas](https://arxiv.org/abs/2506.03275)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Mirage: A Multi-Level Superoptimizer for Tensor Programs](https://arxiv.org/pdf/2405.05751)</b></sub> | 2025 | None | <sub><b></b></sub> |
@@ -220,6 +225,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Improving Quantized FP4 Weight Quality via Logit Distillation](https://mobiusml.github.io/fp4_blogpost/)" (2025)* - Mobius Labs
 - *"[Introducing NVFP4 for Efficient and Accurate Low-Precision Inference](https://developer.nvidia.com/blog/introducing-nvfp4-for-efficient-and-accurate-low-precision-inference/?ncid=so-link-105283&linkId=100000370829029)" (2025)* - Nvidia
 - *"[The LLM Engineer Almanac](https://modal.com/llm-almanac/advisor?filters=model%3DLlama+3.1+8B%2Ctokens%3D128%3B1024%2Cttft_p95%3C1)" (2025)* - Modal
 - *"[Enhance Your Models in 5 Minutes with the Hugging Face Kernel Hub](https://huggingface.co/blog/hello-hf-kernels)" (2025)* - Hugging Face
