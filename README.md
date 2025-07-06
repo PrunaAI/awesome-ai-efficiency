@@ -274,6 +274,25 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | **Théo Alves Da Costa**           | Ekimetrics                       | <sub>AI Efficiency, Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-alves-da-costa-09397a82/) |
 | **Sasha Luccioni**      | Hugging Face                       | <sub>AI Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sashaluccioniphd/) |
 | **Anne-Laure Ligozat**      | ENSIEE                       | <sub>AI Sustainability</sub> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anne-laure-ligozat-009a095/?originalSubdomain=fr) |
+| **Boris Gamazaychikov**      | Sales Force | <sub>AI Sustainability</sub>                 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bgamazay/) |
+| **Julie Ravillon**           | Sales Force | <sub>AI Sustainability</sub>           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julieravillon/) |
+| **Will Alpine**              | Enabled EMissions Camapaigns | <sub>AI Sustainability</sub>       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willalpine/) |
+| **Holly Alpine** | Enabled EMissions Camapaigns | <sub>AI Sustainability</sub>               | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hollyalpine/) |
+| **Drew Wilkinson**           | Climate Leadership Collective | <sub>AI Sustainability</sub>           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewmartinwilkinson/) |
+| **Maren Costa**              | WorkforClimate | <sub>AI Sustainability</sub>             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marencosta/) |
+| **Lou Welgryn**              | Data for Good | <sub>AI Ethics, Sustainability</sub>             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lou-welgryn-460434b0/) |
+| **Caroline Jean-Pierre**     | Gen AI Impact | <sub>AI Sustainability</sub>         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-jean-pierre/) |
+| **Claire Saignol**           | Gen AI Impact | <sub>AI Sustianability </sub>              | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claire-saignol/) |
+| **Juliette Fropier**         | French Ministry | <sub>AI Sustainability</sub>             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliette-fropier/) |
+| **Helene Costa de Beauregard** | French Ministry | <sub>AI Sustainability</sub>                 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenecostadebeauregard/) |
+| **Rémy Marrone**             | Independent | <sub>AI Sustainability</sub>           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remymarrone/) |
+| **Mark Butcher**             | Positive Cloud | <sub>Cloud sustainability</sub>       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markbutcher/) |
+| **Robert Keus**              | Green PT | <sub>AI Sustainability</sub>               | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertkeus/) |
+| **Cas Burggraaf**            | GreenPT | <sub>AI Sustainability</sub>           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casburggraaf/) |
+| **Wilco Burggraaf**          | GreenPT | <sub>AI Sustainability</sub>             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilco-burggraaf-a6b15517/) |
+| **Anna Lerner Nesbitt**      | Climate Collective | <sub>AI Sustainability</sub>              | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-lerner-nesbitt/) |
+| **Scott Chamberlin**         | Neural Watt | <sub>AI Sustainability</sub>             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-t-chamberlin/) |
+| **Jeremy Tamanini**          | Dual CItizen LLC | <sub>AI Sustainability</sub>                 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremytamanini/) |
 
 ## Organizations 🌍
 
@@ -288,7 +307,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Contributing 🤝
-Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md) to add new resources or suggest improvements that promote AI efficiency.
+Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md) to add new resources or suggest improvements that promote AI efficiency. Youc can contact @sharpenb if you have any questions.
 
 ---
 
