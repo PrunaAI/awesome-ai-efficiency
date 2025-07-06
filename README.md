@@ -251,7 +251,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Lectures 🎓
-- **AI Efficiency Courses: [Slides](https://ln5.sync.com/dl/7d21bc370/gxpiqj2b-4k22jgex-x8i7zgxr-9pkajy52), [Exercises](https://github.com/PrunaAI/courses)** (2025) - Bertrand Charpentier
+- **AI Efficiency Courses: [Slides](https://ln5.sync.com/dl/7d21bc370/gxpiqj2b-4k22jgex-x8i7zgxr-9pkajy52), [Exercises](https://github.com/PrunaAI/courses)** (2025) - Lecture by Bertrand Charpentier
 - **Data Compression, Theory and Applications: [YouTube](https://www.youtube.com/c/MITHANLab), [Slides](https://stanforddatacompressionclass.github.io/notes/contents.html#ee274-data-compression-course-notes)** (2024) - Stanford
 - **[MIT Han's Lab](https://www.youtube.com/c/MITHANLab)** (2024) - MIT Lecture by Han's lab
 - **[GPU Mode](https://www.youtube.com/@GPUMODE)** (2020) - Tutorials by GPU mode community
