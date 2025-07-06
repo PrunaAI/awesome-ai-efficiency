@@ -280,7 +280,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | **Holly Alpine** | Enabled EMissions Camapaigns | <sub>AI Sustainability</sub>               | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hollyalpine/) |
 | **Drew Wilkinson**           | Climate Leadership Collective | <sub>AI Sustainability</sub>           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewmartinwilkinson/) |
 | **Maren Costa**              | WorkforClimate | <sub>AI Sustainability</sub>             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marencosta/) |
-| **Lou Welgryn**              | Data for Good | <sub>AI Ethics, Sustainability</sub>             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lou-welgryn-460434b0/) |
+| **Lou Welgryn**              | Data4Good | <sub>AI Ethics, Sustainability</sub>             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lou-welgryn-460434b0/) |
 | **Caroline Jean-Pierre**     | Gen AI Impact | <sub>AI Sustainability</sub>         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-jean-pierre/) |
 | **Claire Saignol**           | Gen AI Impact | <sub>AI Sustianability </sub>              | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claire-saignol/) |
 | **Juliette Fropier**         | French Ministry | <sub>AI Sustainability</sub>             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliette-fropier/) |
@@ -293,12 +293,14 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | **Anna Lerner Nesbitt**      | Climate Collective | <sub>AI Sustainability</sub>              | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-lerner-nesbitt/) |
 | **Scott Chamberlin**         | Neural Watt | <sub>AI Sustainability</sub>             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-t-chamberlin/) |
 | **Jeremy Tamanini**          | Dual CItizen LLC | <sub>AI Sustainability</sub>                 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremytamanini/) |
+| **Emma Strubell**          | CMU | <sub>AI Sustainability</sub>                 | |
 
 ## Organizations 🌍
 
 | Organization           | Description                                                              | Website                                              |
 |------------------------|--------------------------------------------------------------------------|------------------------------------------------------|
 | **Data4Good**           | A platform that connects data scientists with social impact projects to address global challenges using data. | [data4good.org](https://www.data4good.org/)           |
+| **Gen AI Impact**           | A platform dedidaceted to understand generative AI environmental footprint. | [genai-impact.org](https://genai-impact.org/)           |
 | **Make.org**            | A global platform that empowers citizens to propose and take action on social and environmental issues through collective projects. | [make.org](https://www.make.org/)                     |
 | **CodeCarbon**          | A tool that helps track the carbon emissions of machine learning models and optimizes them for sustainability. | [codecarbon.io](https://www.codecarbon.io/)           |
 | **Sustainable AI Coalition** | An organization dedicated to advancing sustainability in AI technologies and promoting best practices for green AI. | [sustainableaicoalition.org](https://www.sustainableaicoalition.org/) |
