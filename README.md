@@ -49,11 +49,14 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **2 nuclear plants**: Number of nuclear plants to constantly work ot generate enough energy if 80M people generate 5 pages per day ([Source](https://huggingface.co/spaces/genai-impact/ecologits-calculator), 2025)
 - **1 smartphone charge**: Amount of energy required to AI generate a couple of images or run a few thousands inference with an LLM ([Source](https://arxiv.org/pdf/2311.16863), 2024)
 - **>10s**: Time requried to generate 1 HD image with Flux on H100 or to generate 100 tokens with Llama 3 on T4 ([Source](https://flux-pruna-benchmark.vercel.app/) and [Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard), 2024)
+- **7-10 smartphone charges**: Amount of energy required to AI generate one video with Wan 2.1 ([Source](https://huggingface.co/blog/jdelavande/text-to-video-energy-cost))
 - **61,848.0x**: Difference between the highest and lowest energy use in energy leaderboard for AI models ([Source](https://huggingface.co/spaces/AIEnergyScore/Leaderboard), 2025).
 - **1,300MWh**: GPT-3, for example, is estimated to use just under 1,300 megawatt hours (MWh) of electricity; about as much power as consumed annually by 130 US homes ([Source](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption), 2024)
 - **800M users/week**: Amount of users using ChatGPT per week in 2025 ([Source](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/))
 - **1B messages/day**: Amount of ChatGPT queries per day in 2025 ([Source](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/))
 - **+160%**: Expected increase of data center power consumption by 2030 ([Source](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/))
+- **x3.8**: Hardware acceleration (GPU/TPU) reduces energy consumption by a factor of 3.8 compared with the CPU, for the same task, but also reduces response time by up to 39% ([Source](https://greenspector.com/en/the-environmental-impact-of-local-text-ai/))
+- **x18**:The carbon footprint of a task can vary by a factor of 18 depending on the model, framework and backend used ([Source](https://greenspector.com/en/the-environmental-impact-of-local-text-ai/))
 
 ---
 
@@ -79,10 +82,13 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[LLMCache](https://github.com/LMCache/LMCache)**: An LLM serving engine extension to reduce time-to-first-token and increase throughput, especially under long-context scenarios. 
 - **[ExLlamaV3](https://github.com/turboderp-org/exllamav3)**: An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs.
 - **[FlashDeBERTa](https://github.com/Knowledgator/FlashDeBERTa)**: Flash implementation of DeBERTa disentangled attention mechanism.
+- **[QuACK](https://github.com/Dao-AILab/quack)**: An assortiment of Kernels for GPUs.
+- **[Pi-Quant](https://github.com/PrimeIntellect-ai/pi-quant)**: An assortiment of Kernels for CPUs.
+- **[pplx-kernels](https://github.com/ppl-ai/pplx-kernels)**: An assortiment of Kernels for GPUs.
 
 ---
 
-## Articles 📰
+## News Articles 📰
 - *"[Energy and AI Observatory](https://www.iea.org/data-and-statistics/data-tools/energy-and-ai-observatory?tab=Energy+for+AI)"* (2025) - IEA
 - *"[AI’s Impacts, how to limit them, and why](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/)"* (2025) - Better Tech
 - *"[How much energy does ChatGPT use?](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use)"* (2025) - Epoch AI
@@ -109,6 +115,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Reports 📈
+- *"[The environmental impact of local text AI](https://greenspector.com/en/the-environmental-impact-of-local-text-ai/)"* (2025) - Green Spector
+- *"[Misinformation by Omission: The Need for More Environmental Transparency in AI](https://arxiv.org/pdf/2506.15572)"* (2025) - None
 - *"[A General Framework for Frugal AI](https://www.afnor.org/en/news/referential-for-measuring-and-reducing-environmental-impact-of-ia/)"* (2025) - AFNOR
 - *"[The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)"* (2025) - Stanford Human-centered Artificial Intelligence
 - *"[Energy and AI](https://www.iea.org/reports/energy-and-ai)"* (2025) - International Energy Agency
@@ -125,6 +133,10 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Compressing Language Models for Specialized Domains](https://arxiv.org/abs/2502.18424)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[Dynamic Chunking for End-to-End Hierarchical Sequence Modeling](https://arxiv.org/abs/2507.07955)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training](https://arxiv.org/abs/2505.11594)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[XAttention: Block Sparse Attention with Antidiagonal Scoring](https://hanlab.mit.edu/projects/xattention)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
 | <sub><b>[Jenga: Effective Memory Management for Serving LLM with Heterogeneity](https://arxiv.org/abs/2503.18292)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Learning Few-Step Diffusion Models by Trajectory Distribution Matching](https://arxiv.org/abs/2503.06674)</b></sub> | 2025 | ICCV | <sub><b></b></sub> |
 | <sub><b>[Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation](https://arxiv.org/abs/2506.19852)</b></sub> | 2025 | None | <sub><b></b></sub> |
@@ -224,6 +236,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[The Limits of Large Fused Kernels on Nvidia GPUs: Why Real-Time AI Inference Needs More](https://smallest.ai/blog/the-limits-of-large-fused-kernels-on-nvidia-gpus-why-real-time-ai-inference-needs-more)" (2025)* - Smallest AI
+- *"[How Much Power does a SOTA Open Video Model Use?](https://huggingface.co/blog/jdelavande/text-to-video-energy-cost)" (2025)* - Hugging Face  
 - *"[Improving Quantized FP4 Weight Quality via Logit Distillation](https://mobiusml.github.io/fp4_blogpost/)" (2025)* - Mobius Labs
 - *"[Introducing NVFP4 for Efficient and Accurate Low-Precision Inference](https://developer.nvidia.com/blog/introducing-nvfp4-for-efficient-and-accurate-low-precision-inference/?ncid=so-link-105283&linkId=100000370829029)" (2025)* - Nvidia
 - *"[The LLM Engineer Almanac](https://modal.com/llm-almanac/advisor?filters=model%3DLlama+3.1+8B%2Ctokens%3D128%3B1024%2Cttft_p95%3C1)" (2025)* - Modal
