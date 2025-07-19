@@ -85,6 +85,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[QuACK](https://github.com/Dao-AILab/quack)**: An assortiment of Kernels for GPUs.
 - **[Pi-Quant](https://github.com/PrimeIntellect-ai/pi-quant)**: An assortiment of Kernels for CPUs.
 - **[pplx-kernels](https://github.com/ppl-ai/pplx-kernels)**: An assortiment of Kernels for GPUs.
+- **[LMCache](https://github.com/LMCache/LMCache)**: an LLM serving engine extension to reduce TTFT and increase throughput, especially under long-context scenarios, by optimizing the KV caches.
 
 ---
 
@@ -133,6 +134,11 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[QuarterMap: Efficient Post-Training Token Pruning for Visual State Space Models](https://openreview.net/attachment?id=pGJB9zGGwC&name=pdf)</b></sub> | 2025 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Fast Video Generation with Sliding Tile Attention](https://arxiv.org/abs/2502.04507)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[Quartet: Native FP4 Training Can Be Optimal for Large Language Models](https://arxiv.org/abs/2505.14669)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference](https://arxiv.org/abs/2505.09598)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[MagCache: Fast Video Generation with Magnitude-Aware Cache](https://arxiv.org/pdf/2506.09045)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Compressing Language Models for Specialized Domains](https://arxiv.org/abs/2502.18424)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Dynamic Chunking for End-to-End Hierarchical Sequence Modeling](https://arxiv.org/abs/2507.07955)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training](https://arxiv.org/abs/2505.11594)</b></sub> | 2025 | None | <sub><b></b></sub> |
@@ -236,6 +242,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Review of Inference Optimization](https://www.aussieai.com/research/overview)" (2025)* - Aussie AI
 - *"[The Limits of Large Fused Kernels on Nvidia GPUs: Why Real-Time AI Inference Needs More](https://smallest.ai/blog/the-limits-of-large-fused-kernels-on-nvidia-gpus-why-real-time-ai-inference-needs-more)" (2025)* - Smallest AI
 - *"[How Much Power does a SOTA Open Video Model Use?](https://huggingface.co/blog/jdelavande/text-to-video-energy-cost)" (2025)* - Hugging Face  
 - *"[Improving Quantized FP4 Weight Quality via Logit Distillation](https://mobiusml.github.io/fp4_blogpost/)" (2025)* - Mobius Labs
