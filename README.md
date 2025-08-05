@@ -86,6 +86,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[Pi-Quant](https://github.com/PrimeIntellect-ai/pi-quant)**: An assortiment of Kernels for CPUs.
 - **[pplx-kernels](https://github.com/ppl-ai/pplx-kernels)**: An assortiment of Kernels for GPUs.
 - **[LMCache](https://github.com/LMCache/LMCache)**: an LLM serving engine extension to reduce TTFT and increase throughput, especially under long-context scenarios, by optimizing the KV caches.
+- **[FastWan](https://hao-ai-lab.github.io/blogs/fastvideo_post_training/)**: a family of video generation models trained via “sparse distillation”.
+- **[GEAK Agent](https://github.com/AMD-AIG-AIMA/GEAK-agent)**: This is an LLM-based multi-agent framework, which can generate functional and efficient gpu kernels automatically.
 
 ---
 
@@ -243,6 +245,9 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Our contribution to a global environmental standard for AI](https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai) (2025)"* - Mistral AI
+- *"[AI: It's All About Inference Now](https://queue.acm.org/detail.cfm?id=3733701) (2025)"* - ACM Queue
+- *"[ScalarLM vLLM Optimization with Virtual Channels](https://www.scalarlm.com/blog/scalarlm-vllm-optimization-with-virtual-channels/)" (2025)* - ScalarLM
 - *"[Review of Inference Optimization](https://www.aussieai.com/research/overview)" (2025)* - Aussie AI
 - *"[The Limits of Large Fused Kernels on Nvidia GPUs: Why Real-Time AI Inference Needs More](https://smallest.ai/blog/the-limits-of-large-fused-kernels-on-nvidia-gpus-why-real-time-ai-inference-needs-more)" (2025)* - Smallest AI
 - *"[How Much Power does a SOTA Open Video Model Use?](https://huggingface.co/blog/jdelavande/text-to-video-energy-cost)" (2025)* - Hugging Face  
