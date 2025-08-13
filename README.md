@@ -88,6 +88,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[LMCache](https://github.com/LMCache/LMCache)**: an LLM serving engine extension to reduce TTFT and increase throughput, especially under long-context scenarios, by optimizing the KV caches.
 - **[FastWan](https://hao-ai-lab.github.io/blogs/fastvideo_post_training/)**: a family of video generation models trained via “sparse distillation”.
 - **[GEAK Agent](https://github.com/AMD-AIG-AIMA/GEAK-agent)**: This is an LLM-based multi-agent framework, which can generate functional and efficient gpu kernels automatically.
+- **[Fused Kernel Library](https://github.com/Libraries-Openly-Fused/FusedKernelLibrary)**: Implementation of a package that allows user to define GPU kernel fusion, for non CUDA programmers.
 
 ---
 
@@ -136,6 +137,12 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514)</b></sub> | 2024 | None | <sub><b></b></sub> |
+| <sub><b>[TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/abs/2502.13917)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference](https://arxiv.org/abs/2508.02193)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential](https://arxiv.org/html/2507.11851v1)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/pdf/2404.19737)</b></sub> | 2024 | None | <sub><b></b></sub> |
+| <sub><b>[The Fused Kernel Library: A C++ API to Develop Highly-Efficient GPU Libraries](https://arxiv.org/pdf/2508.07071)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[QuarterMap: Efficient Post-Training Token Pruning for Visual State Space Models](https://openreview.net/attachment?id=pGJB9zGGwC&name=pdf)</b></sub> | 2025 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[Fast Video Generation with Sliding Tile Attention](https://arxiv.org/abs/2502.04507)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
 | <sub><b>[Quartet: Native FP4 Training Can Be Optimal for Large Language Models](https://arxiv.org/abs/2505.14669)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
@@ -245,6 +252,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Look Ma, No Bubbles! Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles) (2025)"* - Hazy Research
 - *"[Our contribution to a global environmental standard for AI](https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai) (2025)"* - Mistral AI
 - *"[AI: It's All About Inference Now](https://queue.acm.org/detail.cfm?id=3733701) (2025)"* - ACM Queue
 - *"[ScalarLM vLLM Optimization with Virtual Channels](https://www.scalarlm.com/blog/scalarlm-vllm-optimization-with-virtual-channels/)" (2025)* - ScalarLM
