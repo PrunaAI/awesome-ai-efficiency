@@ -137,7 +137,11 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
-| <sub><b>[Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514)</b></sub> | 2024 | None | <sub><b></b></sub> |
+| <sub><b>[]()</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[]()</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[]()</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[Mind the Gap: A Practical Attack on GGUF Quantization](https://www.arxiv.org/pdf/2505.23786)</b></sub> | 2025 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Olica: Efficient Structured Pruning of Large Language Models without Retraining](https://openreview.net/pdf?id=hhhcwCgyM1)</b></sub> | 2025 | ICML | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/abs/2502.13917)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference](https://arxiv.org/abs/2508.02193)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential](https://arxiv.org/html/2507.11851v1)</b></sub> | 2025 | None | <sub><b></b></sub> |
@@ -190,6 +194,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Distillation Scaling Laws](https://arxiv.org/pdf/2502.08606)</b></sub> | 2025 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
 | <sub><b>[From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate](https://arxiv.org/abs/2501.16548v1)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Coca4ai: checking energy behaviors on AI data centers](https://arxiv.org/abs/2407.15670)</b></sub> | 2024 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple) ![Scalability](https://img.shields.io/badge/Scalability-purple)</b></sub> |
+| <sub><b>[Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514)</b></sub> | 2024 | None | <sub><b></b></sub> |
 | <sub><b>[LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/abs/2501.00103)</b></sub> | 2024 | CVPR | <sub><b></b></sub> |
 | <sub><b>[How Green Can AI Be? A Study of Trends in Machine Learning Environmental Impacts](https://arxiv.org/abs/2412.17376)</b></sub> | 2024 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs](https://arxiv.org/pdf/2404.00456)</b></sub> | 2024 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
