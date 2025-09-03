@@ -137,9 +137,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
-| <sub><b>[]()</b></sub> | 2025 | ICML | <sub><b></b></sub> |
-| <sub><b>[]()</b></sub> | 2025 | ICML | <sub><b></b></sub> |
-| <sub><b>[]()</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[Auditing Prompt Caching in Language Model APIs](https://arxiv.org/pdf/2502.07776)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
 | <sub><b>[Mind the Gap: A Practical Attack on GGUF Quantization](https://www.arxiv.org/pdf/2505.23786)</b></sub> | 2025 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Olica: Efficient Structured Pruning of Large Language Models without Retraining](https://openreview.net/pdf?id=hhhcwCgyM1)</b></sub> | 2025 | ICML | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/abs/2502.13917)</b></sub> | 2025 | None | <sub><b></b></sub> |
