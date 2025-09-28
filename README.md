@@ -137,6 +137,38 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Foresight: Adaptive Layer Reuse for Accelerated and High-Quality Text-to-Video Generation](https://arxiv.org/pdf/2506.00329)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching](https://arxiv.org/pdf/2508.16984)</b></sub> | 2025 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[ERTACache: Error Rectification and Timesteps Adjustment for Efficient Diffusion](https://arxiv.org/pdf/2508.21091)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[DiCache: Let Diffusion Model Determine its Own Cache]()</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[Set Block Decoding is a Language Model Inference Accelerator](https://arxiv.org/pdf/2509.04185)</b></sub> | 2025 | NOne | <sub><b></b></sub> |
+| <sub><b>[Position: Small Language Models are the Future of Agentic AI](https://arxiv.org/pdf/2506.02153)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[Fast-dLLM v2: Efficient Block-Diffusion Large Language Model](https://nvlabs.github.io/Fast-dLLM/v2/)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation](https://arxiv.org/pdf/2503.09641)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/pdf/2505.19223)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[Let LLM Tell What to Prune and How Much to Prune](https://openreview.net/pdf?id=zFR5aWGaUs)</b></sub> | 2025 | ICML | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[SlimLLM: Accurate Structured Pruning for Large Language Models](https://arxiv.org/pdf/2505.22689)</b></sub> | 2025 | ICML | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation](https://openreview.net/pdf?id=bzbuZ0ItBq)</b></sub> | 2025 | ICML | <sub><b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</b></sub> |
+| <sub><b>[OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference](https://arxiv.org/pdf/2507.03865)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[SkipGPT: Each Token is One of a Kind](https://openreview.net/pdf?id=d7v2iUSa9s)</b></sub> | 2025 | ICML | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[AdaSplash: Adaptive Sparse Flash Attention](https://openreview.net/pdf?id=OWIPDWhUcO)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compression](https://openreview.net/pdf?id=rkwXYSDKso)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[An Efficient Matrix Multiplication Algorithm for Accelerating Inference in Binary and Ternary Neural Networks](https://openreview.net/pdf?id=Nvf4jFsbv9)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[Accelerating Large Language Model Reasoning via Speculative Search](https://openreview.net/pdf?id=oq0t5BXilT)</b></sub> | 2025 | ICML | <sub><b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</b></sub> |
+| <sub><b>[ReFrame: Layer Caching for Accelerated Inference in Real-Time Rendering](https://openreview.net/pdf?id=HZCx5EToh9)</b></sub> | 2025 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[HarmoniCa: Harmonizing Training and Inference for Better Feature Caching in Diffusion Transformer Acceleration](https://openreview.net/pdf?id=NQyqpK6d72)</b></sub> | 2025 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[Attention-Level Speculation](https://openreview.net/pdf?id=4OszSYdsgO)</b></sub> | 2025 | ICML | <sub><b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</b></sub> |
+| <sub><b>[EvoPress: Accurate Dynamic Model Compression via Evolutionary Search](https://openreview.net/pdf?id=l7QzcZpjc5)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[Hardware and Software Platform Inference](https://openreview.net/pdf?id=kdmjVF1iDO)</b></sub> | 2025 | ICML | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[MoH: Multi-Head Attention as Mixture-of-Head Attention](https://openreview.net/pdf?id=eYtgs9k75o)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[QoS-Efficient Serving of Multiple Mixture-of-Expert LLMs Using Partial Runtime Reconfiguration](https://openreview.net/pdf?id=g45SHBmZLz)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
+| <sub><b>[KV Cache Compression via Sparse Coding over Universal Dictionaries](https://openreview.net/pdf?id=Yh9vxlxnjA)</b></sub> | 2025 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[KVTuner: Sensitivity-Aware Layer-Wise Mixed-Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference](https://openreview.net/pdf?id=zDwipF6h06)</b></sub> | 2025 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[BlockDialect: Block-wise Fine-grained Mixed Format Quantization for Energy-Efficient LLM Inference](https://openreview.net/pdf?id=Y0yXuQtPn8)</b></sub> | 2025 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[any4: Learned 4-bit Numeric Representation for LLMs](https://openreview.net/pdf?id=tJmhOPkWCj)</b></sub> | 2025 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[AdaDecode: Accelerating LLM Decoding with Adaptive Layer Parallelism](https://openreview.net/pdf?id=VnO2GEpmlb)</b></sub> | 2025 | ICML | <sub><b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</b></sub> |
+| <sub><b>[BOA: Attention-aware Post-training Quantization without Backpropagation](https://openreview.net/pdf?id=Uvj6XcSJ5d)</b></sub> | 2025 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Radio: Rate–Distortion Optimization for Large Language Model Compression](https://openreview.net/pdf?id=ifnxXCCEiM)</b></sub> | 2025 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Auditing Prompt Caching in Language Model APIs](https://arxiv.org/pdf/2502.07776)</b></sub> | 2025 | ICML | <sub><b></b></sub> |
 | <sub><b>[Mind the Gap: A Practical Attack on GGUF Quantization](https://www.arxiv.org/pdf/2505.23786)</b></sub> | 2025 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Olica: Efficient Structured Pruning of Large Language Models without Retraining](https://openreview.net/pdf?id=hhhcwCgyM1)</b></sub> | 2025 | ICML | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
@@ -256,6 +288,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm) (2025)"* - Aleksa Gordić
 - *"[Look Ma, No Bubbles! Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles) (2025)"* - Hazy Research
 - *"[Our contribution to a global environmental standard for AI](https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai) (2025)"* - Mistral AI
 - *"[AI: It's All About Inference Now](https://queue.acm.org/detail.cfm?id=3733701) (2025)"* - ACM Queue
