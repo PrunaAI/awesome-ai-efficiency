@@ -93,7 +93,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## News Articles 📰
-- *"[Energy and AI Observatory](https://www.iea.org/data-and-statistics/data-tools/energy-and-ai-observatory?tab=Energy+for+AI)"* (2025) - IEA
+- *"[Energy and AI Observatory](https://www.iea.org/data-and-statistics/data-tools/energy-and-ai-observatory?tab=Energy+for+AI)"* (2025) - International Energy Agency
 - *"[AI’s Impacts, how to limit them, and why](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/)"* (2025) - Better Tech
 - *"[How much energy does ChatGPT use?](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use)"* (2025) - Epoch AI
 - *"[Data centers et intelligence artificielle : la course au gigantisme](https://www.lemonde.fr/economie/article/2025/06/01/data-centers-et-intelligence-artificielle-la-course-au-gigantisme_6609751_3234.html)"* (2025) - Le Monde
@@ -119,6 +119,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Reports 📈
+- *"[Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?](https://theshiftproject.org/publications/intelligence-artificielle-centres-de-donnees-rapport-final/)"* (2025) - Shift Project
 - *"[The environmental impact of local text AI](https://greenspector.com/en/the-environmental-impact-of-local-text-ai/)"* (2025) - Green Spector
 - *"[Misinformation by Omission: The Need for More Environmental Transparency in AI](https://arxiv.org/pdf/2506.15572)"* (2025) - None
 - *"[A General Framework for Frugal AI](https://www.afnor.org/en/news/referential-for-measuring-and-reducing-environmental-impact-of-ia/)"* (2025) - AFNOR
@@ -137,6 +138,10 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation](https://arxiv.org/pdf/2505.18875)</b></sub> | 2025 | NeurIPS | <sub><b></b></sub> |
+| <sub><b>[More than Carbon: Cradle-to-Grave environmental impacts of GenAI training on the Nvidia A100 GPU](https://arxiv.org/pdf/2509.00093)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
+| <sub><b>[Does Efficiency Lead to Green Machine Learning Model Training? Analyzing Historical Trends in Impacts from Hardware, Algorithmic and Carbon Optimizations](https://hal.science/hal-04839926v4/document)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple) ![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
+| <sub><b>[Measuring the environmental impact of delivering AI at Google Scale](https://services.google.com/fh/files/misc/measuring_the_environmental_impact_of_delivering_ai_at_google_scale.pdf)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[GANQ: GPU-Adaptive Non-Uniform Quantization for Large Language Models](https://arxiv.org/abs/2501.12956)</b></sub> | 2025 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Foresight: Adaptive Layer Reuse for Accelerated and High-Quality Text-to-Video Generation](https://arxiv.org/pdf/2506.00329)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching](https://arxiv.org/pdf/2508.16984)</b></sub> | 2025 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
@@ -326,7 +331,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Lectures 🎓
 - **AI Efficiency Courses: [Slides](https://ln5.sync.com/dl/7d21bc370/gxpiqj2b-4k22jgex-x8i7zgxr-9pkajy52), [Exercises](https://github.com/PrunaAI/courses)** (2025) - Lecture by Bertrand Charpentier
 - **Data Compression, Theory and Applications: [YouTube](https://www.youtube.com/c/MITHANLab), [Slides](https://stanforddatacompressionclass.github.io/notes/contents.html#ee274-data-compression-course-notes)** (2024) - Stanford
-- **[MIT Han's Lab](https://www.youtube.com/c/MITHANLab)** (2024) - MIT Lecture by Han's lab
+- **[MIT Han's Lab](https://www.youtube.com/c/MITHANLab)** (2024) - Lecture by Song Han
 - **[GPU Mode](https://www.youtube.com/@GPUMODE)** (2020) - Tutorials by GPU mode community
 
 ---
