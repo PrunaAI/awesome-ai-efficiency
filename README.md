@@ -119,6 +119,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Reports 📈
+- *"[AI in 2030](https://epoch.ai/files/AI_2030.pdf)"* (2025) - Epoch AI
 - *"[Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?](https://theshiftproject.org/publications/intelligence-artificielle-centres-de-donnees-rapport-final/)"* (2025) - Shift Project
 - *"[The environmental impact of local text AI](https://greenspector.com/en/the-environmental-impact-of-local-text-ai/)"* (2025) - Green Spector
 - *"[Misinformation by Omission: The Need for More Environmental Transparency in AI](https://arxiv.org/pdf/2506.15572)"* (2025) - None
@@ -138,6 +139,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder](https://arxiv.org/pdf/2509.25182)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation](https://arxiv.org/pdf/2505.18875)</b></sub> | 2025 | NeurIPS | <sub><b></b></sub> |
 | <sub><b>[More than Carbon: Cradle-to-Grave environmental impacts of GenAI training on the Nvidia A100 GPU](https://arxiv.org/pdf/2509.00093)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[Does Efficiency Lead to Green Machine Learning Model Training? Analyzing Historical Trends in Impacts from Hardware, Algorithmic and Carbon Optimizations](https://hal.science/hal-04839926v4/document)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple) ![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
@@ -147,7 +149,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching](https://arxiv.org/pdf/2508.16984)</b></sub> | 2025 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[ERTACache: Error Rectification and Timesteps Adjustment for Efficient Diffusion](https://arxiv.org/pdf/2508.21091)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[DiCache: Let Diffusion Model Determine its Own Cache]()</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
-| <sub><b>[Set Block Decoding is a Language Model Inference Accelerator](https://arxiv.org/pdf/2509.04185)</b></sub> | 2025 | NOne | <sub><b></b></sub> |
+| <sub><b>[Set Block Decoding is a Language Model Inference Accelerator](https://arxiv.org/pdf/2509.04185)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Position: Small Language Models are the Future of Agentic AI](https://arxiv.org/pdf/2506.02153)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Fast-dLLM v2: Efficient Block-Diffusion Large Language Model](https://nvlabs.github.io/Fast-dLLM/v2/)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation](https://arxiv.org/pdf/2503.09641)</b></sub> | 2025 | None | <sub><b></b></sub> |
