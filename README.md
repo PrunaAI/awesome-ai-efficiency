@@ -137,6 +137,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[GANQ: GPU-Adaptive Non-Uniform Quantization for Large Language Models](https://arxiv.org/abs/2501.12956)</b></sub> | 2025 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Foresight: Adaptive Layer Reuse for Accelerated and High-Quality Text-to-Video Generation](https://arxiv.org/pdf/2506.00329)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching](https://arxiv.org/pdf/2508.16984)</b></sub> | 2025 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[ERTACache: Error Rectification and Timesteps Adjustment for Efficient Diffusion](https://arxiv.org/pdf/2508.21091)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
