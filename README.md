@@ -139,6 +139,9 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[MagCache: Fast Video Generation with Magnitude-Aware Cache](https://arxiv.org/pdf/2506.09045)</b></sub> | 2025 | NeurIPS | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[Toward Efficient Inference for Mixture of Experts](https://proceedings.neurips.cc/paper_files/paper/2024/file/98bf3b8505c611ac21055dd9d355c66e-Paper-Conference.pdf)</b></sub> | 2025 | NeurIPS | <sub><b></b></sub> |
+| <sub><b>[Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization](https://arxiv.org/pdf/2504.09629)</b></sub> | 2025 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder](https://arxiv.org/pdf/2509.25182)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation](https://arxiv.org/pdf/2505.18875)</b></sub> | 2025 | NeurIPS | <sub><b></b></sub> |
 | <sub><b>[More than Carbon: Cradle-to-Grave environmental impacts of GenAI training on the Nvidia A100 GPU](https://arxiv.org/pdf/2509.00093)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
@@ -296,6 +299,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Vocabulary Trimming: An Easy and Effective Method for SLM Acceleration](https://blog.squeezebits.com/vocabulary-trimming-methods) (2025)"* - Squeeze Bits
 - *"[Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm) (2025)"* - Aleksa Gordić
 - *"[Look Ma, No Bubbles! Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles) (2025)"* - Hazy Research
 - *"[Our contribution to a global environmental standard for AI](https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai) (2025)"* - Mistral AI
