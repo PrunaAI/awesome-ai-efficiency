@@ -93,6 +93,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## News Articles 📰
+- *"[Responding to the climate impact of generative AI](https://news.mit.edu/2025/responding-to-generative-ai-climate-impact-0930)"* (2025) - MIT News
 - *"[Energy and AI Observatory](https://www.iea.org/data-and-statistics/data-tools/energy-and-ai-observatory?tab=Energy+for+AI)"* (2025) - International Energy Agency
 - *"[AI’s Impacts, how to limit them, and why](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/)"* (2025) - Better Tech
 - *"[How much energy does ChatGPT use?](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use)"* (2025) - Epoch AI
