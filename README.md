@@ -89,6 +89,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[FastWan](https://hao-ai-lab.github.io/blogs/fastvideo_post_training/)**: a family of video generation models trained via “sparse distillation”.
 - **[GEAK Agent](https://github.com/AMD-AIG-AIMA/GEAK-agent)**: This is an LLM-based multi-agent framework, which can generate functional and efficient gpu kernels automatically.
 - **[Fused Kernel Library](https://github.com/Libraries-Openly-Fused/FusedKernelLibrary)**: Implementation of a package that allows user to define GPU kernel fusion, for non CUDA programmers.
+- **[FlashPack](https://github.com/fal-ai/flashpack)**: a library with efficient Disk-to-GPU Tensor loading.
 
 ---
 
@@ -321,6 +322,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - *"[Automating GPU Kernel Generation with DeepSeek-R1 and Inference Time Scaling](https://developer.nvidia.com/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/)" (2025)* - Nvidia Developer
 - *"[AI CUDA Engineer](https://sakana.ai/ai-cuda-engineer/)" (2025)* - Sakana AI
 - *"[The ML/AI Engineer's starter guide to GPU Programming](https://neuralbits.substack.com/p/the-mlai-engineers-starter-guide)" (2025)* - Neural Bits
+- *"[A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) (2024)"* - Substack
 - *"[Understanding Quantization for LLMs](https://medium.com/@lmpo/understanding-model-quantization-for-llms-1573490d44ad)" (2024)* - Medium
 - *"[Don't Merge Your LoRA Adapter Into a 4-bit LLM](https://kaitchup.substack.com/p/dont-merge-your-lora-adapter-into?source=post_page-----2216ffcdc27b---------------------------------------)" (2023)* - Substack
 - *"[Matrix Multiplication Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html#math-mem)" (2023)* - Nvidia Developer
