@@ -141,6 +141,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[LongLive: Real-time Interactive Long Video Generation](https://arxiv.org/pdf/2509.22622)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[MagCache: Fast Video Generation with Magnitude-Aware Cache](https://arxiv.org/pdf/2506.09045)</b></sub> | 2025 | NeurIPS | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Toward Efficient Inference for Mixture of Experts](https://proceedings.neurips.cc/paper_files/paper/2024/file/98bf3b8505c611ac21055dd9d355c66e-Paper-Conference.pdf)</b></sub> | 2025 | NeurIPS | <sub><b></b></sub> |
 | <sub><b>[Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization](https://arxiv.org/pdf/2504.09629)</b></sub> | 2025 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
