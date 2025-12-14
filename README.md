@@ -141,6 +141,45 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| Paper | Year | Venue | Tags |
+|-------|------|-------|------|
+| <sub><b>[TokenSqueeze: Performance-Preserving Compression for Reasoning LLMs](https://arxiv.org/pdf/2511.13223)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Frequency-Aware Token Reduction for Efficient Vision Transformer](https://arxiv.org/pdf/2511.21477)</b></sub> | 2025 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Language Models (Mostly) Know When to Stop Reading](https://arxiv.org/pdf/2502.01025)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Why 1 + 1 &lt; 1 in Visual Token Pruning](https://arxiv.org/pdf/2505.10118)</b></sub> | 2025 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Don’t Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models](https://arxiv.org/pdf/2505.21765)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[The Overthinker’s DIET: Cutting Token Calories with Difficulty-Aware Training](https://arxiv.org/pdf/2505.19217)</b></sub> | 2025 | NeurIPS | <sub><b>![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
+| <sub><b>[R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing](https://arxiv.org/pdf/2505.21600)</b></sub> | 2025 | NeurIPS | <sub><b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</b></sub> |
+| <sub><b>[Training Language Models to Reason Efficiently](https://arxiv.org/pdf/2502.04463)</b></sub> | 2025 | NeurIPS | <sub><b>![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
+| <sub><b>[AccuQuant: Simulating Multiple Denoising Steps for Quantizing Diffusion Models](https://arxiv.org/pdf/2510.20348)</b></sub> | 2025 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[FP4 All the Way: Fully Quantized Training of LLMs](https://arxiv.org/pdf/2505.19115)</b></sub> | 2025 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Quartet: Native FP4 Training Can Be Optimal for Large Language Models](https://arxiv.org/html/2505.14669v3)</b></sub> | 2025 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[DartQuant: Efficient Rotational Distribution Calibration for LLM Quantization](https://arxiv.org/pdf/2511.04063)</b></sub> | 2025 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[DFloat11: Lossless Compression of LLMs and Diffusion Models for Efficient GPU Inference](https://github.com/LeanModels/DFloat11)</b></sub> | 2024 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[A Token is Worth over 1,000 Tokens](https://arxiv.org/pdf/2505.12781)</b></sub> | 2025 | NeurIPS | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[Why Knowledge Distillation Works in Generative Models](https://arxiv.org/pdf/2505.13111)</b></sub> | 2025 | NeurIPS | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[Knowledge Distillation Detection for Open-Weights Models](https://arxiv.org/pdf/2510.02302)</b></sub> | 2025 | NeurIPS | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[FFN Fusion: Rethinking Sequential Computation in Large Language Models](https://openreview.net/attachment?id=XUmGMBRv4M&name=pdf)</b></sub> | 2024 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Sign-In to the Lottery: Reparameterized Sparse Training](https://arxiv.org/pdf/2504.12801)</b></sub> | 2025 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Differentiable Sparsity via D-Gating](https://arxiv.org/pdf/2509.23898)</b></sub> | 2025 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[The Graphon Limit Hypothesis](https://arxiv.org/pdf/2510.17515)</b></sub> | 2025 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Týr-the-Pruner: Structural Pruning LLMs via Global Sparsity Distribution Optimization](https://arxiv.org/pdf/2503.09657)</b></sub> | 2025 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs](https://arxiv.org/pdf/2506.20194)</b></sub> | 2025 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Spark Transformer: Reactivating Sparsity in FFN and Attention](https://arxiv.org/pdf/2506.06644)</b></sub> | 2025 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Multi-Token Prediction Needs Registers](https://arxiv.org/pdf/2505.10518)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Q3R: Quadratic Reweighted Rank Regularizer for Effective Low-Rank Training](https://arxiv.org/pdf/2511.04485)</b></sub> | 2025 | NeurIPS | <sub><b>![Factorization](https://img.shields.io/badge/Factorization-purple)</b></sub> |
+| <sub><b>[Accurate and Efficient Low-Rank Model Merging in Core Space](https://arxiv.org/pdf/2509.17786)</b></sub> | 2025 | NeurIPS | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
+| <sub><b>[FALQON: Accelerating LoRA Fine-tuning with Low-Bit Floating-Point Arithmetic](https://arxiv.org/pdf/2510.24061)</b></sub> | 2025 | NeurIPS | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
+| <sub><b>[LoRA vs Full Fine-tuning: An Illusion of Equivalence](https://arxiv.org/pdf/2410.21228)</b></sub> | 2024 | NeurIPS | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
+| <sub><b>[DEFT: Decompositional Efficient Fine-Tuning for Text-to-Image Models](https://arxiv.org/abs/2509.22793)</b></sub> | 2025 | NeurIPS | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
+| <sub><b>[KLASS: KL-Guided Fast Inference in Masked Diffusion Models](https://arxiv.org/pdf/2511.05664)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[ScaleDiff: Higher-Resolution Image Synthesis via Efficient and Model-Agnostic Diffusion](https://github.com/KSH00906/ScaleDiff)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[AI Should Sense Better, Not Just Scale Bigger: Adaptive Sensing as a Paradigm Shift](https://arxiv.org/pdf/2507.07820)</b></sub> | 2025 | NeurIPS | <sub><b>![Scalability](https://img.shields.io/badge/Scalability-purple)</b></sub> |
+| <sub><b>[A Sustainable AI Economy Needs Data Deals That Work for Generators](https://openreview.net/pdf?id=mdKzkjY1dM)</b></sub> | 2024 | NeurIPS | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
+| <sub><b>[We Should Chart an Atlas of All the World's Models](https://horwitz.ai/model-atlas)</b></sub> | 2024 | NeurIPS |  |
+| <sub><b>[Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models](https://arxiv.org/pdf/2508.09968)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Position: Require Frontier AI Labs To Release Small "Analog" Models](https://arxiv.org/pdf/2510.14053)</b></sub> | 2025 | NeurIPS | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
+| <sub><b>[Accelerating Diffusion LLMs via Adaptive Parallel Decoding](https://arxiv.org/pdf/2506.00413)</b></sub> | 2025 | NeurIPS | <sub><b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</b></sub> |
 | <sub><b>[LongLive: Real-time Interactive Long Video Generation](https://arxiv.org/pdf/2509.22622)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[MagCache: Fast Video Generation with Magnitude-Aware Cache](https://arxiv.org/pdf/2506.09045)</b></sub> | 2025 | NeurIPS | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Toward Efficient Inference for Mixture of Experts](https://proceedings.neurips.cc/paper_files/paper/2024/file/98bf3b8505c611ac21055dd9d355c66e-Paper-Conference.pdf)</b></sub> | 2025 | NeurIPS | <sub><b></b></sub> |
@@ -273,6 +312,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study](https://www.researchgate.net/publication/375508988_Exploring_the_Carbon_Footprint_of_Hugging_Face's_ML_Models_A_Repository_Mining_Study)</b></sub> | 2023 | ESEM | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)</b></sub> | 2023 | SOSP | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Broken Neural Scaling Laws](https://arxiv.org/abs/2210.14891)</b></sub> | 2023 | ICLR | <sub><b></b></sub> |
+| <sub><b>[Model Compression in Practice: Lessons Learned from Practitioners Creating On-device Machine Learning Experiences](https://arxiv.org/html/2310.04621v2)</b></sub> | 2023 | None |  |
 | <sub><b>[Post Training Mixed Precision Quantization of Neural Networks using First-Order Information](https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Chauhan_Post_Training_Mixed_Precision_Quantization_of_Neural_Networks_Using_First-Order_ICCVW_2023_paper.pdf)</b></sub> | 2023 | ICCV | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/pdf/2310.01889)</b></sub> | 2023 | None | <sub><b></b></sub> |
 | <sub><b>[A Practical Mixed Precision Algorithm for Post-Training Quantization](https://arxiv.org/abs/2302.05397)</b></sub> | 2023 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
