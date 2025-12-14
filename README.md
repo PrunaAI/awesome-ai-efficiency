@@ -155,6 +155,11 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[DartQuant: Efficient Rotational Distribution Calibration for LLM Quantization](https://arxiv.org/pdf/2511.04063)</b></sub> | 2025 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[DFloat11: Lossless Compression of LLMs and Diffusion Models for Efficient GPU Inference](https://github.com/LeanModels/DFloat11)</b></sub> | 2024 | NeurIPS | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[A Token is Worth over 1,000 Tokens](https://arxiv.org/pdf/2505.12781)</b></sub> | 2025 | NeurIPS | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance](https://arxiv.org/abs/2505.19742)</b></sub> | 2025 | NeurIPS | |
+| <sub><b>[One-Step Diffusion-Based Image Compression with Semantic Distillation](https://arxiv.org/abs/2505.16687)</b></sub> | 2025 | NeurIPS | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[Mean Flows for One-step Generative Modeling](https://arxiv.org/pdf/2505.13447)</b></sub> | 2025 | NeurIPS | |
+| <sub><b>[Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction](https://arxiv.org/pdf/2505.20755)</b></sub> | 2025 | NeurIPS | |
+| <sub><b>[Simple Distillation for One-Step Diffusion Models](https://openreview.net/pdf?id=NHw8muIAcL)</b></sub> | 2025 | NeurIPS | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
 | <sub><b>[Why Knowledge Distillation Works in Generative Models](https://arxiv.org/pdf/2505.13111)</b></sub> | 2025 | NeurIPS | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
 | <sub><b>[Knowledge Distillation Detection for Open-Weights Models](https://arxiv.org/pdf/2510.02302)</b></sub> | 2025 | NeurIPS | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
 | <sub><b>[FFN Fusion: Rethinking Sequential Computation in Large Language Models](https://openreview.net/attachment?id=XUmGMBRv4M&name=pdf)</b></sub> | 2024 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
