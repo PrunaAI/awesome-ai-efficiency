@@ -141,8 +141,6 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
-| Paper | Year | Venue | Tags |
-|-------|------|-------|------|
 | <sub><b>[TokenSqueeze: Performance-Preserving Compression for Reasoning LLMs](https://arxiv.org/pdf/2511.13223)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[Frequency-Aware Token Reduction for Efficient Vision Transformer](https://arxiv.org/pdf/2511.21477)</b></sub> | 2025 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[Language Models (Mostly) Know When to Stop Reading](https://arxiv.org/pdf/2502.01025)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
