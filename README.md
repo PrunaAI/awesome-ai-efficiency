@@ -90,6 +90,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[GEAK Agent](https://github.com/AMD-AIG-AIMA/GEAK-agent)**: This is an LLM-based multi-agent framework, which can generate functional and efficient gpu kernels automatically.
 - **[Fused Kernel Library](https://github.com/Libraries-Openly-Fused/FusedKernelLibrary)**: Implementation of a package that allows user to define GPU kernel fusion, for non CUDA programmers.
 - **[FlashPack](https://github.com/fal-ai/flashpack)**: a library with efficient Disk-to-GPU Tensor loading.
+- **[Humming](https://github.com/inclusionAI/humming)**: a library with efficient kernels.
+- **[NVIDIA Model Optimizer](https://github.com/NVIDIA/Model-Optimizer)**: Model optimization for efficient deployment.
 
 ---
 
@@ -135,12 +137,51 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - *"[Google Sustainability Reports](https://sustainability.google/reports/)"* (2024) - Google
 - *"[How much water does AI consume? The public deserves to know](https://oecd.ai/en/wonk/how-much-water-does-ai-consume)"* (2023) - OECD
 - *"[Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)"* (2022) - OECD
+- *"[Prospective d'évolution des consommations des data centers à court, moyen et long terme (2024–2060)](https://librairie.ademe.fr/energies/8910-10774-prospective-d-evolution-des-consommations-des-data-centers-a-court-moyen-et-long-terme-de-2024-a-2060.html)"* - ADEME
 
 ---
 
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076)</b></sub> | 2026 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Generative Modeling via Drifting](https://arxiv.org/abs/2602.04770)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Just on Time: Token-Level Early Stopping for Diffusion Language Models](https://arxiv.org/abs/2602.11133)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[From Sketch to Fresco: Efficient Diffusion Transformer with Progressive Resolution](https://arxiv.org/abs/2601.07462)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Efficient Diffusion Transformers](https://arxiv.org/abs/2601.07396)</b></sub> | 2026 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation](https://arxiv.org/abs/2602.09014)</b></sub> | 2026 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[FlowCast: Trajectory Forecasting for Scalable Zero-Cost Speculative Flow Matching](https://arxiv.org/abs/2602.01329)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Learning to Reason in 13 Parameters](https://arxiv.org/abs/2602.04118)</b></sub> | 2026 | None | <sub><b>![PEFT](https://img.shields.io/badge/Peft-purple)</b></sub> |
+| <sub><b>[Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization](https://arxiv.org/abs/2602.02958)</b></sub> | 2026 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[PixelRush: Ultra-Fast, Training-Free High-Resolution Image Generation via One-step Diffusion](https://arxiv.org/abs/2602.12769)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing](https://arxiv.org/abs/2602.08820)</b></sub> | 2026 | None | <sub><b></b></sub> |
+| <sub><b>[Iterative Refinement Improves Compositional Image Generation](https://arxiv.org/abs/2601.15286)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[LightCache: Memory-Efficient, Training-Free Acceleration for Video Generation](https://arxiv.org/abs/2510.05367)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer](https://arxiv.org/abs/2509.24695)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[SSDD: Single-Step Diffusion Decoder for Efficient Image Tokenization](https://arxiv.org/abs/2510.04961)</b></sub> | 2025 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[Less is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Optimal Stepsize for Diffusion Sampling](https://arxiv.org/abs/2503.21774)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[VORTA: Efficient Video Diffusion via Routing Sparse Attention](https://arxiv.org/abs/2505.18809)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[VSA: Faster Video Diffusion with Trainable Sparse Attention](https://arxiv.org/abs/2505.13389)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> <sub><b>![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
+| <sub><b>[Efficient Reasoning Models: A Survey](https://arxiv.org/abs/2504.10903)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation](https://arxiv.org/abs/2510.14974)</b></sub> | 2025 | ICLR | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[REAP the Experts: Why Pruning Prevails for One-Shot MoE compression](https://arxiv.org/abs/2510.13999)</b></sub> | 2025 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[LLaDA2.0: Scaling Up Diffusion Language Models to 100B](https://arxiv.org/abs/2512.15745)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923)</b></sub> | 2025 | None | <sub><b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</b></sub> |
+| <sub><b>[HilbertA: Hilbert Attention for Image Generation with Diffusion Models](https://arxiv.org/abs/2509.26538)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[LongVie 2: Multimodal Controllable Ultra-Long Video World Model](https://arxiv.org/abs/2512.13604)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming](https://arxiv.org/abs/2512.21338)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/abs/2505.13211)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference](https://arxiv.org/abs/2512.22737)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Blockwise Flow Matching: Improving Flow Matching Models For Efficient High-Quality Generation](https://arxiv.org/abs/2510.21167)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[H-Net++: Hierarchical Dynamic Chunking for Tokenizer-Free Language Modelling in Morphologically-Rich Languages](https://arxiv.org/abs/2508.05628)</b></sub> | 2025 | None | <sub><b></b></sub> |
+| <sub><b>[SLiM: One-shot Quantization and Sparsity with Low-rank Approximation for LLM Weight Compression](https://arxiv.org/abs/2410.09615)</b></sub> | 2024 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Constant Acceleration Flow](https://arxiv.org/abs/2411.00322)</b></sub> | 2024 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Q-Diffusion: Quantizing Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Q-Diffusion_Quantizing_Diffusion_Models_ICCV_2023_paper.pdf)</b></sub> | 2023 | ICCV | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Circuit Sparsity](https://cdn.openai.com/pdf/41df8f28-d4ef-43e9-aed2-823f9393e470/circuit-sparsity-paper.pdf)</b></sub> | 2025 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[QReg: On Regularization Effects of Quantization](https://arxiv.org/abs/2206.12372)</b></sub> | 2022 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[TokenSqueeze: Performance-Preserving Compression for Reasoning LLMs](https://arxiv.org/pdf/2511.13223)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[Frequency-Aware Token Reduction for Efficient Vision Transformer](https://arxiv.org/pdf/2511.21477)</b></sub> | 2025 | NeurIPS | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[Language Models (Mostly) Know When to Stop Reading](https://arxiv.org/pdf/2502.01025)</b></sub> | 2025 | NeurIPS | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
@@ -257,6 +298,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[Efficient Time Series Processing for Transformers and State-Space Models through Token Merging](https://arxiv.org/pdf/2405.17951)</b></sub> | 2025 | None | <sub><b></b></sub> |
 | <sub><b>[A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency](https://arxiv.org/abs/2505.01658)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](https://arxiv.org/abs/2502.18137)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning](https://arxiv.org/pdf/2602.13515)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> <sub><b>![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
 | <sub><b>[s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)</b></sub> | 2025 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[BitNet b1.58 2B4T Technical Report](https://arxiv.org/pdf/2504.12285)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[NdLinear Is All You Need for Representation Learning](https://arxiv.org/pdf/2503.17353)</b></sub> | 2025 | None | <sub><b>![Factorization](https://img.shields.io/badge/Factorization-purple)</b></sub> |
@@ -371,6 +413,13 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - *"[Don't Merge Your LoRA Adapter Into a 4-bit LLM](https://kaitchup.substack.com/p/dont-merge-your-lora-adapter-into?source=post_page-----2216ffcdc27b---------------------------------------)" (2023)* - Substack
 - *"[Matrix Multiplication Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html#math-mem)" (2023)* - Nvidia Developer
 - *"[GPU Performance Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html#understand-perf)" (2023)* - Nvidia Developer
+- *"[AI Data Centers Explained](https://huggingface.co/blog/sasha/ai-data-centers-explained)"* - Hugging Face
+- *"[RND1](https://www.radicalnumerics.ai/blog/rnd1)"* - Radical Numerics
+- *"[Smol Training Playbook](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#introduction)"* - Hugging Face
+- *"[DFlash](https://z-lab.ai/projects/dflash/)"* - Z-Lab
+- *"[Upskill](https://huggingface.co/blog/upskill)"* - Hugging Face
+- *"[Accelerating Diffusion Models with an Open Plug-and-Play Offering](https://developer.nvidia.com/blog/accelerating-diffusion-models-with-an-open-plug-and-play-offering/)"* - Nvidia Developer
+- *"[Custom CUDA Kernels Agent Skills](https://huggingface.co/blog/custom-cuda-kernels-agent-skills)"* - Hugging Face
 
 ---
 
@@ -425,6 +474,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | **Scott Chamberlin**         | Neural Watt | <sub>AI Sustainability</sub>             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-t-chamberlin/) |
 | **Jeremy Tamanini**          | Dual CItizen LLC | <sub>AI Sustainability</sub>                 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremytamanini/) |
 | **Emma Strubell**          | CMU | <sub>AI Sustainability</sub>                 | |
+| **Lin Feng Zhang**        | Personal site | <sub>AI Efficiency</sub> | [Website](http://www.zhanglinfeng.tech/) |
 
 ## Organizations 🌍
 
