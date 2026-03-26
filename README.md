@@ -144,6 +144,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[TECS-L: Number-Theoretic Energy Efficiency for AI](https://github.com/need-singularity/TECS-L)</b></sub> | 2026 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076)</b></sub> | 2026 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[Generative Modeling via Drifting](https://arxiv.org/abs/2602.04770)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[Just on Time: Token-Level Early Stopping for Diffusion Language Models](https://arxiv.org/abs/2602.11133)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
