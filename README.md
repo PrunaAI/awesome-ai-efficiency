@@ -44,6 +44,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Facts 📊
+- **1% of Dutch electricity**: Microsoft hyperscale data center in Middenmeer consumes over 1% of all Dutch electricity ([Source](https://nltimes.nl/2026/07/14/microsoft-data-center-uses-1-dutch-electricity), 2026)
 - **3-40Wh**: Amount of energy consumed for one small to long ChatGPT query ([Source](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use), 2025)  
 - **1L**: Estimated amount of water required for 20-100 ChatGPT queries ([Source](https://arxiv.org/pdf/2304.03271), 2025)  
 - **2 nuclear plants**: Number of nuclear plants to constantly work ot generate enough energy if 80M people generate 5 pages per day ([Source](https://huggingface.co/spaces/genai-impact/ecologits-calculator), 2025)
@@ -93,10 +94,16 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[FlashPack](https://github.com/fal-ai/flashpack)**: a library with efficient Disk-to-GPU Tensor loading.
 - **[Humming](https://github.com/inclusionAI/humming)**: a library with efficient kernels.
 - **[NVIDIA Model Optimizer](https://github.com/NVIDIA/Model-Optimizer)**: Model optimization for efficient deployment.
+- **[GigaToken](https://github.com/marcelroed/gigatoken)**: Language model tokenization at GB/s.
+- **[FlashLib](https://github.com/FlashML-org/flashlib)**: Fast and memory-efficient classical machine learning operators.
+- **[Mage](https://github.com/microsoft/Mage)**: A lightweight 4B multimodal model family for efficient visual understanding and generation.
+- **[ltx2-simple-optims](https://github.com/sayakpaul/ltx2-simple-optims)**: Simple optimizations for LTX2.3, including a custom QK-Norm-RoPE kernel.
 
 ---
 
 ## News Articles 📰
+- *"[Microsoft data center uses 1% of all Dutch electricity](https://nltimes.nl/2026/07/14/microsoft-data-center-uses-1-dutch-electricity)"* (2026) - NL Times
+- *"[Comment l'IA dévore la planète](https://www.lemonde.fr/economie/article/2025/12/26/comment-l-ia-devore-la-planete_6659449_3234.html)"* (2025) - Le Monde
 - *"[Responding to the climate impact of generative AI](https://news.mit.edu/2025/responding-to-generative-ai-climate-impact-0930)"* (2025) - MIT News
 - *"[Energy and AI Observatory](https://www.iea.org/data-and-statistics/data-tools/energy-and-ai-observatory?tab=Energy+for+AI)"* (2025) - International Energy Agency
 - *"[AI’s Impacts, how to limit them, and why](https://bettertech.blog/2025/04/19/ais-impacts-how-to-limit-them-and-why/)"* (2025) - Better Tech
@@ -145,6 +152,31 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[D2Cache: Second-Order Delta Caching for Higher Video Diffusion Acceleration](https://openaccess.thecvf.com//content/CVPR2026/papers/Liu_D2Cache_Second-Order_Delta_Caching_for_Higher_Video_Diffusion_Acceleration_CVPR_2026_paper.pdf)</b></sub> | 2026 | CVPR | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Budget-Constrained Step-Level Diffusion Caching](https://arxiv.org/pdf/2606.13496)</b></sub> | 2026 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training](https://arxiv.org/abs/2606.15682)</b></sub> | 2026 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> <sub><b>![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
+| <sub><b>[Distribution Matching Distillation Meets Reinforcement Learning](https://arxiv.org/pdf/2511.13649)</b></sub> | 2026 | ECCV | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> <sub><b>![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
+| <sub><b>[DiffusionBlocks: Block-wise Neural Network Training via Diffusion Interpretation](https://arxiv.org/abs/2506.14202)</b></sub> | 2026 | ICLR | <sub><b>![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
+| <sub><b>[Parallel Decoding Distillation for Fast Image and Video Generation](https://arxiv.org/abs/2607.26004)</b></sub> | 2026 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification](https://arxiv.org/abs/2607.24027)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation](https://arxiv.org/abs/2607.21553)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](https://arxiv.org/abs/2607.02461)</b></sub> | 2026 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling](https://arxiv.org/pdf/2607.01642)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Post-Training Pruning for Diffusion Transformers](https://arxiv.org/pdf/2607.00927)</b></sub> | 2026 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation](https://arxiv.org/abs/2606.23743)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> <sub><b>![Compilation](https://img.shields.io/badge/Compilation-purple)</b></sub> |
+| <sub><b>[Training-free sparse attention based on cumulative energy filtering](https://arxiv.org/abs/2606.16317)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Adaptive Inference-Time Scaling via Early-Step Latent Verification for Image Editing](https://arxiv.org/abs/2606.15188)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[HiLo-Token: Input-Adaptive High-Low Frequency Token Compression for Efficient Image Editing](https://arxiv.org/pdf/2606.13898)</b></sub> | 2026 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment](https://arxiv.org/pdf/2606.13035)</b></sub> | 2026 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[High-Fidelity Two-Step Image Generation via Teacher-Aligned End-to-End Distillation](https://huggingface.co/papers/2606.12575)</b></sub> | 2026 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling](https://arxiv.org/pdf/2606.06309)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[ReCache: Learning Budget-Aware Caching Schedules for Diffusion Models via REINFORCE](https://arxiv.org/pdf/2606.06060)</b></sub> | 2026 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[Qwen-Image-Flash: Beyond Objective Design](https://arxiv.org/pdf/2606.03746)</b></sub> | 2026 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks](https://arxiv.org/pdf/2606.03458)</b></sub> | 2026 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[Dual-Rate Diffusion: Accelerating diffusion models with an interleaved heavy-light network](https://arxiv.org/pdf/2605.18190)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[ElasticDiT: Efficient Diffusion Transformers via Elastic Architecture and Sparse Attention for High-Resolution Image Generation on Mobile Devices](https://arxiv.org/pdf/2605.15684)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
+| <sub><b>[Continuous-Time Distribution Matching for Few-Step Diffusion Distillation](https://arxiv.org/pdf/2605.06376v1)</b></sub> | 2026 | None | <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> |
+| <sub><b>[Statistically-Lossless Quantization of Large Language Models](https://arxiv.org/abs/2605.02404)</b></sub> | 2026 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal](https://arxiv.org/pdf/2604.27322)</b></sub> | 2026 | CVPR | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models](https://arxiv.org/pdf/2603.01400)</b></sub> | 2026 | CVPR | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> |
 | <sub><b>[MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models](https://arxiv.org/pdf/2603.04800)</b></sub> | 2026 | CVPR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
@@ -454,6 +486,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Sakana Fugu](https://sakana.ai/fugu/)" (2026)* - Sakana AI
 - *"[Vocabulary Trimming: An Easy and Effective Method for SLM Acceleration](https://blog.squeezebits.com/vocabulary-trimming-methods) (2025)"* - Squeeze Bits
 - *"[Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm) (2025)"* - Aleksa Gordić
 - *"[Look Ma, No Bubbles! Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles) (2025)"* - Hazy Research
