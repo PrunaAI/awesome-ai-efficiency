@@ -62,6 +62,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Tools 🛠️
+- **[AICodeSlopMonitor](https://slopcodemonitor.ai/)**: Detects low-quality and AI-generated code patterns to help developers review and improve codebases.
+- **[SynthScan](https://github.com/marcoramilli/SynthScan)**: Scans codebases for AI-generated code patterns.
 - :heart: **[Pruna](https://docs.pruna.ai/en/latest/)** :heart:: A package to make AI models faster, smaller, faster, greener by combining compression methods (incl. quantization, pruning, caching, compilation, distillation...) on various hardware.
 - **[TensorRT](https://developer.nvidia.com/tensorrt)**: High-performance deep learning inference library for NVIDIA GPUs.
 - **[ONNX](https://onnx.ai/)**: Open Neural Network Exchange format for interoperability among deep learning frameworks.
