@@ -93,6 +93,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 - **[Fused Kernel Library](https://github.com/Libraries-Openly-Fused/FusedKernelLibrary)**: Implementation of a package that allows user to define GPU kernel fusion, for non CUDA programmers.
 - **[FlashPack](https://github.com/fal-ai/flashpack)**: a library with efficient Disk-to-GPU Tensor loading.
 - **[Humming](https://github.com/inclusionAI/humming)**: a library with efficient kernels.
+- **[Helion](https://github.com/pytorch/helion)**: Python DSL for writing portable, high-performance GPU kernels.
+- **[Hugging Face Kernels](https://github.com/huggingface/kernels)**: Hub packaging and loading for GPU kernels, including Helion.
 - **[NVIDIA Model Optimizer](https://github.com/NVIDIA/Model-Optimizer)**: Model optimization for efficient deployment.
 - **[GigaToken](https://github.com/marcelroed/gigatoken)**: Language model tokenization at GB/s.
 - **[FlashLib](https://github.com/FlashML-org/flashlib)**: Fast and memory-efficient classical machine learning operators.
@@ -131,6 +133,7 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Reports 📈
+- *"[ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns](https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard)"* (2026) - SemiAnalysis
 - *"[AI in 2030](https://epoch.ai/files/AI_2030.pdf)"* (2025) - Epoch AI
 - *"[Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?](https://theshiftproject.org/publications/intelligence-artificielle-centres-de-donnees-rapport-final/)"* (2025) - Shift Project
 - *"[The environmental impact of local text AI](https://greenspector.com/en/the-environmental-impact-of-local-text-ai/)"* (2025) - Green Spector
@@ -152,6 +155,20 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ## Research Articles 📄
 | Paper | Year | Venue | Tags |
 |-------|------|-------|------|
+| <sub><b>[DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://arxiv.org/abs/2610.12572)</b></sub> | 2026 | None | <sub><b>![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
+| <sub><b>[SparseDecoding: Decoding-Aware Pruning for Accurate and Efficient LLM Inference](https://arxiv.org/abs/2610.12327)</b></sub> | 2026 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Activation Denoising: A Robustness View on Parallel vs Sequential LLM Quantization](https://arxiv.org/abs/2610.07522)</b></sub> | 2026 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression](https://arxiv.org/abs/2610.06026)</b></sub> | 2026 | None | <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> <sub><b>![Factorization](https://img.shields.io/badge/Factorization-purple)</b></sub> |
+| <sub><b>[BitNest: Bit-Nested Speculative Decoding for Memory-Efficient LLM Inference Acceleration](https://arxiv.org/abs/2610.02800)</b></sub> | 2026 | None | <sub><b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</b></sub> <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
+| <sub><b>[JustQuant: You Don't Need Smoothing, SVD, or Rotation for 4-Bit Activation Quantization](https://arxiv.org/abs/2609.33601)</b></sub> | 2026 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> <sub><b>![Distillation](https://img.shields.io/badge/Distillation-purple)</b></sub> <sub><b>![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
+| <sub><b>[Block Sparse Attention with Log-Linear Complexity](https://arxiv.org/abs/2609.31093)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> <sub><b>![Compilation](https://img.shields.io/badge/Compilation-purple)</b></sub> |
+| <sub><b>[H-Spec: Parallel Speculative Decoding Without a Drafter-Side KV Cache](https://arxiv.org/abs/2609.24197)</b></sub> | 2026 | None | <sub><b>![SpecDec](https://img.shields.io/badge/SpecDec-purple)</b></sub> <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
+| <sub><b>[The Inference Engineering Pareto Atlas: Which Optimizations Dominate the Cost, Quality, and Latency Frontier?](https://arxiv.org/abs/2609.17863)</b></sub> | 2026 | None | <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention](https://arxiv.org/abs/2609.15810)</b></sub> | 2026 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[Runtime Dynamic Compression of Mixture of Experts](https://timdettmers.com/papers/runtime-dynamic-compression.pdf)</b></sub> | 2026 | ICLR | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> <sub><b>![Pruning](https://img.shields.io/badge/Pruning-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
+| <sub><b>[INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](https://openreview.net/pdf?id=1GIYHWO9S5)</b></sub> | 2026 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> <sub><b>![Hardware](https://img.shields.io/badge/Hardware-purple)</b></sub> |
+| <sub><b>[Scaling Law for Quantization-Aware Training](https://openreview.net/pdf?id=fXr3uPr1G5)</b></sub> | 2026 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> <sub><b>![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
+| <sub><b>[Model-Preserving Adaptive Rounding](https://openreview.net/pdf?id=PKFilPWjMI)</b></sub> | 2026 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[D2Cache: Second-Order Delta Caching for Higher Video Diffusion Acceleration](https://openaccess.thecvf.com//content/CVPR2026/papers/Liu_D2Cache_Second-Order_Delta_Caching_for_Higher_Video_Diffusion_Acceleration_CVPR_2026_paper.pdf)</b></sub> | 2026 | CVPR | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> <sub><b>![Inference](https://img.shields.io/badge/Inference-purple)</b></sub> |
 | <sub><b>[Budget-Constrained Step-Level Diffusion Caching](https://arxiv.org/pdf/2606.13496)</b></sub> | 2026 | ICML | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training](https://arxiv.org/abs/2606.15682)</b></sub> | 2026 | ICML | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> <sub><b>![Training](https://img.shields.io/badge/Training-purple)</b></sub> |
@@ -386,7 +403,6 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 | <sub><b>[The ML.ENERGY Benchmark: Toward Automated Inference Energy Measurement and Optimization](https://arxiv.org/abs/2505.06371)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse](https://arxiv.org/pdf/2504.10540)</b></sub> | 2025 | None | <sub><b>![Caching](https://img.shields.io/badge/Caching-purple)</b></sub> |
 | <sub><b>[Hardware-Efficient Attention for Fast Decoding](https://arxiv.org/abs/2505.21487)</b></sub> | 2025 | None | <sub><b>![Hardware](https://img.shields.io/badge/Hardware-purple)</b></sub> |
-| <sub><b>[Model-Preserving Adaptive Rounding](https://arxiv.org/pdf/2505.22988v1)</b></sub> | 2025 | None | <sub><b>![Quantization](https://img.shields.io/badge/Quantization-purple)</b></sub> |
 | <sub><b>[Frugal AI: Introduction, Concepts, Development and Open Questions](https://www.researchgate.net/publication/390920260_Frugal_AI_Introduction_Concepts_Development_and_Open_Questions)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models](https://arxiv.org/pdf/2304.03271)</b></sub> | 2025 | None | <sub><b>![Sustainability](https://img.shields.io/badge/Sustainability-purple)</b></sub> |
 | <sub><b>[Efficient Time Series Processing for Transformers and State-Space Models through Token Merging](https://arxiv.org/pdf/2405.17951)</b></sub> | 2025 | None | <sub><b></b></sub> |
@@ -486,6 +502,8 @@ If you find this list helpful, give it a ⭐ on GitHub, share it, and contribute
 ---
 
 ## Blogs 📰
+- *"[Sol-H3: MiniMax-H3 768p Video Generation on a Single NVIDIA DGX Spark](https://nvlabs.github.io/Sana/Sol-Engine/Sol-H3-Spark/)" (2026)* - NVIDIA
+- *"[Helion x HF Kernels: Building and Shipping Out-of-the-box Performant Kernels](https://pytorch.org/blog/helion-x-%f0%9f%a4%97-hf-kernels-building-and-shipping-out-of-the-box-performant-kernels/)" (2026)* - PyTorch
 - *"[Sakana Fugu](https://sakana.ai/fugu/)" (2026)* - Sakana AI
 - *"[Vocabulary Trimming: An Easy and Effective Method for SLM Acceleration](https://blog.squeezebits.com/vocabulary-trimming-methods) (2025)"* - Squeeze Bits
 - *"[Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm) (2025)"* - Aleksa Gordić
